@@ -37,3 +37,9 @@ temp/
 # Build outputs (if any)
 dist/
 build/
+
+# Moat task system
+.moat/
+
+# Claude Code configuration
+.claude/
