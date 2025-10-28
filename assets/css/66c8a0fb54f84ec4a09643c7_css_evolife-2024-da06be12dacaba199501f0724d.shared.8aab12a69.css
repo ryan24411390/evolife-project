@@ -7908,6 +7908,19 @@ figcaption {
   border-top-right-radius: 24px;
 }
 
+.home-hero_module-img-2.float-highlight {
+  border-radius: 8px;
+}
+
+.home-hero_module-2.is-2 > .home-hero_module-img-2 {
+  border-radius: 8px;
+}
+
+.footer_header .image-10 {
+  width: 70%;
+  max-width: 447px;
+}
+
 .logo-mint-2 {
   width: auto;
   height: 15cqw;
