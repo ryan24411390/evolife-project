@@ -14,6 +14,18 @@ const CLEANED_DIR = path.join(__dirname, '..', 'cleaned');
 
 const PAGES = ['longevity', 'microdosing', 'testosterone'];
 
+// Whitelist: Functional libraries that should NEVER be removed
+const FUNCTIONAL_DOMAINS = [
+  'cdnjs.cloudflare.com',        // GSAP, ScrollTrigger, and other CDN libraries
+  'unpkg.com',                    // Split-type, Lenis smooth scroll
+  'cdn.jsdelivr.net',             // Finsweet, Slick carousel
+  'player.vimeo.com',             // Vimeo player
+  'static.ctctcdn.com',           // Constant Contact forms
+  'renderer.trysavvy.com',        // Savvy forms
+  'bundle.trysavvy.com',          // Savvy bundle
+  'cookieguard.addwebprojects.com' // Cookie consent (functional)
+];
+
 // Comprehensive list of tracking domains and scripts to remove
 const TRACKER_PATTERNS = [
   // Google Analytics & Tag Manager
@@ -25,7 +37,7 @@ const TRACKER_PATTERNS = [
   /window\.dataLayer\s*=\s*window\.dataLayer.*?;/gi,
   /function\s+gtag\s*\(.*?\)\s*\{.*?\}/gis,
   /gtag\(['"].*?['"]\)/gi,
-  /<script.*?gtm\.js.*?<\/script>/gi,
+  /<script.*?googletagmanager\.com\/gtm\.js.*?<\/script>/gi, // FIXED: More specific to avoid catching GSAP
 
   // Facebook Pixel
   /<!-- Facebook Pixel.*?-->.*?<script>.*?fbq.*?<\/script>/gis,
@@ -122,8 +134,8 @@ const TRACKER_PATTERNS = [
   /window\._rwq.*?;/gi,
   /window\.rewardful.*?;/gi,
 
-  // Tracking-specific script tags (by src patterns)
-  /<script[^>]*src=["'][^"']*(?:analytics|tracking|pixel|tag|segment|gtm|fbevents|clarity|tatari|northbeam|everflow|quora|qevents|maximize|bidr)[^"']*["'][^>]*>.*?<\/script>/gis,
+  // Tracking-specific script tags (by src patterns) - FIXED: More specific to avoid catching functional libraries
+  /<script[^>]*src=["'][^"']*(?:google-analytics|googletagmanager|facebook\.net\/.*?fbevents|clarity\.ms|segment\.com\/analytics|tatari|northbeam|everflow|qpixel\.quora|qevents|maximize|usbrowserspeed|bidr)[^"']*["'][^>]*>.*?<\/script>/gis,
 ];
 
 // Additional inline tracking code patterns
@@ -159,9 +171,13 @@ const TRACKER_SCRIPT_NAMES = [
   'up_loader.1.1.0.js',
   'spx',
   'ratag',
-  'gs',
-  'st',
+  // REMOVED: 'gs' and 'st' - too generic, was matching GSAP animation library files
 ];
+
+// Helper function to check if a script is from a whitelisted functional domain
+function isWhitelistedScript(scriptTag) {
+  return FUNCTIONAL_DOMAINS.some(domain => scriptTag.includes(domain));
+}
 
 function cleanHTML(html, pageName) {
   console.log(`\n   🧹 Cleaning ${pageName} HTML...`);
@@ -179,14 +195,20 @@ function cleanHTML(html, pageName) {
     }
   });
 
-  // Remove script tags that reference tracking files
+  // Remove script tags that reference tracking files (but skip whitelisted domains)
   TRACKER_SCRIPT_NAMES.forEach(scriptName => {
     const pattern = new RegExp(`<script[^>]*src=["'][^"']*${scriptName.replace(/\./g, '\\.')}[^"']*["'][^>]*>.*?<\/script>`, 'gis');
     const matches = cleanedHTML.match(pattern);
     if (matches) {
-      cleanedHTML = cleanedHTML.replace(pattern, '<!-- Tracking script removed -->');
-      removedCount += matches.length;
-      console.log(`      ✓ Removed tracking script: ${scriptName} (${matches.length} instance(s))`);
+      // Filter out whitelisted scripts
+      const scriptsToRemove = matches.filter(match => !isWhitelistedScript(match));
+      if (scriptsToRemove.length > 0) {
+        scriptsToRemove.forEach(script => {
+          cleanedHTML = cleanedHTML.replace(script, '<!-- Tracking script removed -->');
+        });
+        removedCount += scriptsToRemove.length;
+        console.log(`      ✓ Removed tracking script: ${scriptName} (${scriptsToRemove.length} instance(s))`);
+      }
     }
   });
 
