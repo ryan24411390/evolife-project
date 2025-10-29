@@ -19,6 +19,10 @@ const FUNCTIONAL_DOMAINS = [
   'cdnjs.cloudflare.com',        // GSAP, ScrollTrigger, and other CDN libraries
   'unpkg.com',                    // Split-type, Lenis smooth scroll
   'cdn.jsdelivr.net',             // Finsweet, Slick carousel
+  'cdn.prod.website-files.com',   // Webflow CSS and assets - CRITICAL!
+  'ajax.googleapis.com',          // Google WebFont Loader
+  'fonts.googleapis.com',         // Google Fonts
+  'fonts.gstatic.com',            // Google Fonts static assets
   'player.vimeo.com',             // Vimeo player
   'static.ctctcdn.com',           // Constant Contact forms
   'renderer.trysavvy.com',        // Savvy forms
