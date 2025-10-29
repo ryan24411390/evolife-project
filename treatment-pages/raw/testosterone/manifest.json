@@ -1,6 +1,6 @@
 {
   "page": "testosterone",
-  "clonedAt": "2025-10-28T18:40:42.510Z",
+  "clonedAt": "2025-10-29T13:19:55.294Z",
   "assets": [
     {
       "type": "css",
@@ -74,18 +74,8 @@
     },
     {
       "type": "js",
-      "url": "https://www.googletagmanager.com/gtag/destination?id=G-12345&cx=c&gtm=4e5ar0",
+      "url": "https://www.googletagmanager.com/gtag/destination?id=G-12345&cx=c&gtm=4e5ar1h2",
       "localPath": "/Users/raiyanabdullah/Desktop/Evolife FInal and last/treatment-pages/assets/js/testosterone/destination"
-    },
-    {
-      "type": "js",
-      "url": "https://d2hrivdxn8ekm8.cloudfront.net/tag-manager/53184a70-8754-4d12-9d68-1d5372e3f90b-additional-latest.js",
-      "localPath": "/Users/raiyanabdullah/Desktop/Evolife FInal and last/treatment-pages/assets/js/testosterone/53184a70-8754-4d12-9d68-1d5372e3f90b-additional-latest.js"
-    },
-    {
-      "type": "js",
-      "url": "https://acdn.adnxs.com/dmp/up/pixie.js",
-      "localPath": "/Users/raiyanabdullah/Desktop/Evolife FInal and last/treatment-pages/assets/js/testosterone/pixie.js"
     },
     {
       "type": "js",
@@ -94,7 +84,7 @@
     },
     {
       "type": "js",
-      "url": "https://a.mgid.com/mgsensor.js?d=1761676792628",
+      "url": "https://a.mgid.com/mgsensor.js?d=1761743943212",
       "localPath": "/Users/raiyanabdullah/Desktop/Evolife FInal and last/treatment-pages/assets/js/testosterone/mgsensor.js"
     },
     {
@@ -169,13 +159,23 @@
     },
     {
       "type": "js",
-      "url": "https://www.googletagmanager.com/gtag/js?id=AW-16694149971&cx=c&gtm=4e5ar0",
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-16694149971&cx=c&gtm=4e5ar1h2",
       "localPath": "/Users/raiyanabdullah/Desktop/Evolife FInal and last/treatment-pages/assets/js/testosterone/js"
     },
     {
       "type": "js",
       "url": "https://api.secureoffer.io/sdk.js?v=1.0.0&h=theoffer.io&u=aHR0cHMlM0ElMkYlMkZ3d3cuam9pbmZyaWRheXMuY29tJTJGdGVzdG9zdGVyb25l&r=",
       "localPath": "/Users/raiyanabdullah/Desktop/Evolife FInal and last/treatment-pages/assets/js/testosterone/sdk.js"
+    },
+    {
+      "type": "js",
+      "url": "https://d2hrivdxn8ekm8.cloudfront.net/tag-manager/53184a70-8754-4d12-9d68-1d5372e3f90b-additional-latest.js",
+      "localPath": "/Users/raiyanabdullah/Desktop/Evolife FInal and last/treatment-pages/assets/js/testosterone/53184a70-8754-4d12-9d68-1d5372e3f90b-additional-latest.js"
+    },
+    {
+      "type": "js",
+      "url": "https://acdn.adnxs.com/dmp/up/pixie.js",
+      "localPath": "/Users/raiyanabdullah/Desktop/Evolife FInal and last/treatment-pages/assets/js/testosterone/pixie.js"
     },
     {
       "type": "js",
@@ -264,7 +264,7 @@
     },
     {
       "type": "js",
-      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16694149971/?random=1761676792666&cv=11&fst=1761676792666&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be5ar0v9194902320z89138061872za200zb9138061872zd9138061872xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~104527907~104528500~104684208~104684211~104948813~115480710~115616986~115938466~115938469~116217636~116217638~116253084~116253086&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.joinfridays.com%2Ftestosterone&frm=0&tiba=Testosterone&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2032546126.1761676673&uaa=x86&uab=64&uafvl=HeadlessChrome%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0%7CChromium%3B141.0.7390.37&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=4",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16694149971/?random=1761743943222&cv=11&fst=1761743943222&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be5ar1h2v9194902320z89138061872za200zb9138061872zd9138061872xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528501~104684208~104684211~104948813~115480710~115938465~115938469~116217636~116217638&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.joinfridays.com%2Ftestosterone&frm=0&tiba=Testosterone&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=852088031.1761743810&uaa=x86&uab=64&uafvl=HeadlessChrome%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0%7CChromium%3B141.0.7390.37&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=4",
       "localPath": "/Users/raiyanabdullah/Desktop/Evolife FInal and last/treatment-pages/assets/js/testosterone/16694149971"
     },
     {
@@ -279,7 +279,7 @@
     },
     {
       "type": "js",
-      "url": "https://dx.mountain.com/spx?dxver=4.0.0&shaid=38536&tdr=&plh=https%3A%2F%2Fwww.joinfridays.com%2Ftestosterone&cb=69477283469087770term=value",
+      "url": "https://dx.mountain.com/spx?dxver=4.0.0&shaid=38536&tdr=&plh=https%3A%2F%2Fwww.joinfridays.com%2Ftestosterone&cb=3349292383806623term=value",
       "localPath": "/Users/raiyanabdullah/Desktop/Evolife FInal and last/treatment-pages/assets/js/testosterone/spx"
     },
     {
@@ -349,12 +349,12 @@
     },
     {
       "type": "js",
-      "url": "https://px.mountain.com/st?ga_tracking_id=G-S0EQYY866Z&ga_client_id=686088587.1761676672&shpt=Testosterone&dcm_cid=686088587.1761676672&available_ga=%5B%7B%22id%22%3A%22G-12345%22%2C%22sess_id%22%3A%221761676673%22%7D%2C%7B%22id%22%3A%22G-S0EQYY866Z%22%2C%22sess_id%22%3A%221761676672%22%7D%5D&ga_info=%7B%22status%22%3A%22OK%22%2C%22available_ga%22%3A%5B%7B%22id%22%3A%22G-12345%22%2C%22sess_id%22%3A%221761676673%22%7D%2C%7B%22id%22%3A%22G-S0EQYY866Z%22%2C%22sess_id%22%3A%221761676672%22%7D%5D%2C%22hardcoded_ga%22%3A%22G-S0EQYY866Z%22%2C%22ga_tracking_id%22%3A%22G-S0EQYY866Z%22%2C%22ga_client_id%22%3A%22686088587.1761676672%22%2C%22shpt%22%3A%22Testosterone%22%2C%22dcm_cid%22%3A%22686088587.1761676672%22%2C%22mntnis%22%3A%225LB6dHXTIR9lC0MGLDvGpFK8RJWndC02%22%2C%22execution_workflow%22%3A%7B%22iteration%22%3A7%2C%22getClientIdByCookie%22%3A%22OK%22%2C%22shpt%22%3A%22OK%22%2C%22dcm_cid%22%3A%22OK%22%7D%7D&hardcoded_ga=G-S0EQYY866Z&meta_tag_data=Testosterone&dxver=4.0.0&shaid=38536&plh=https%3A%2F%2Fwww.joinfridays.com%2Ftestosterone&cb=69477283469087770term%3Dvalue&shadditional=googletagmanager%3Dtrue%2Cappnexus%3Dtrue%2Cga4%3Dtrue&hc_ga_tr_id=G-S0EQYY866Z",
+      "url": "https://px.mountain.com/st?ga_tracking_id=G-S0EQYY866Z&ga_client_id=765302202.1761743809&shpt=Testosterone&dcm_cid=765302202.1761743809&available_ga=%5B%7B%22id%22%3A%22G-12345%22%2C%22sess_id%22%3A%221761743809%22%7D%2C%7B%22id%22%3A%22G-S0EQYY866Z%22%2C%22sess_id%22%3A%221761743809%22%7D%5D&ga_info=%7B%22status%22%3A%22OK%22%2C%22available_ga%22%3A%5B%7B%22id%22%3A%22G-12345%22%2C%22sess_id%22%3A%221761743809%22%7D%2C%7B%22id%22%3A%22G-S0EQYY866Z%22%2C%22sess_id%22%3A%221761743809%22%7D%5D%2C%22hardcoded_ga%22%3A%22G-S0EQYY866Z%22%2C%22ga_tracking_id%22%3A%22G-S0EQYY866Z%22%2C%22ga_client_id%22%3A%22765302202.1761743809%22%2C%22shpt%22%3A%22Testosterone%22%2C%22dcm_cid%22%3A%22765302202.1761743809%22%2C%22mntnis%22%3A%22OAfcwsi3agDr0dGIzKkbqxCL%2FAl%2FCOdl%22%2C%22execution_workflow%22%3A%7B%22iteration%22%3A6%2C%22getClientIdByCookie%22%3A%22OK%22%2C%22shpt%22%3A%22OK%22%2C%22dcm_cid%22%3A%22OK%22%7D%7D&hardcoded_ga=G-S0EQYY866Z&meta_tag_data=Testosterone&dxver=4.0.0&shaid=38536&plh=https%3A%2F%2Fwww.joinfridays.com%2Ftestosterone&cb=3349292383806623term%3Dvalue&shadditional=googletagmanager%3Dtrue%2Cappnexus%3Dtrue%2Cga4%3Dtrue&hc_ga_tr_id=G-S0EQYY866Z",
       "localPath": "/Users/raiyanabdullah/Desktop/Evolife FInal and last/treatment-pages/assets/js/testosterone/st"
     },
     {
       "type": "js",
-      "url": "https://aa.agkn.com/adscores/g.jsonp?sid=9202274878&userid=820E0D-F264BF38-D9A3-4133-BD6B-59A298EA026D",
+      "url": "https://aa.agkn.com/adscores/g.jsonp?sid=9202274878&userid=820E0D-7E169E2C-2B1A-4C55-8E4A-D506DE17F8AF",
       "localPath": "/Users/raiyanabdullah/Desktop/Evolife FInal and last/treatment-pages/assets/js/testosterone/g.jsonp"
     },
     {
@@ -599,18 +599,18 @@
     },
     {
       "type": "image",
-      "url": "https://verifi.podscribe.com/tag?action=view&user_id=09bd4f7d-83bf-4ebb-8a65-7973968f7448&advertiser=joinfridayscom&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Fwww.joinfridays.com%2Flongevity&device_id=GA1.1.686088587.1761676672&first_visited_at=1761676672918&stid=&ipv4=45.125.220.130&url=https%3A%2F%2Fwww.joinfridays.com%2Flongevity&event_url=https%3A%2F%2Fwww.joinfridays.com%2Ftestosterone&source=js-tag+v1.0.8&cachebust=1761676793004",
-      "localPath": "/Users/raiyanabdullah/Desktop/Evolife FInal and last/treatment-pages/assets/images/testosterone/tag"
-    },
-    {
-      "type": "image",
-      "url": "https://i.liadm.com/s/63537?bidder_id=242861&bidder_uuid=820E0D-F264BF38-D9A3-4133-BD6B-59A298EA026D",
+      "url": "https://i.liadm.com/s/63537?bidder_id=242861&bidder_uuid=820E0D-7E169E2C-2B1A-4C55-8E4A-D506DE17F8AF",
       "localPath": "/Users/raiyanabdullah/Desktop/Evolife FInal and last/treatment-pages/assets/images/testosterone/63537"
     },
     {
       "type": "image",
-      "url": "https://aa.agkn.com/adscores/g.pixel?sid=9202283468&_userID=820E0D-F264BF38-D9A3-4133-BD6B-59A298EA026D&_takID=D8FD13820E0D",
+      "url": "https://aa.agkn.com/adscores/g.pixel?sid=9202283468&_userID=820E0D-7E169E2C-2B1A-4C55-8E4A-D506DE17F8AF&_takID=D8FD13820E0D",
       "localPath": "/Users/raiyanabdullah/Desktop/Evolife FInal and last/treatment-pages/assets/images/testosterone/g.pixel"
+    },
+    {
+      "type": "image",
+      "url": "https://verifi.podscribe.com/tag?action=view&user_id=09bd4f7d-83bf-4ebb-8a65-7973968f7448&advertiser=joinfridayscom&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Fwww.joinfridays.com%2Flongevity&device_id=GA1.1.765302202.1761743809&first_visited_at=1761743810078&stid=&ipv4=45.125.220.130&url=https%3A%2F%2Fwww.joinfridays.com%2Flongevity&event_url=https%3A%2F%2Fwww.joinfridays.com%2Ftestosterone&source=js-tag+v1.0.8&cachebust=1761743944546",
+      "localPath": "/Users/raiyanabdullah/Desktop/Evolife FInal and last/treatment-pages/assets/images/testosterone/tag"
     }
   ],
   "summary": {
