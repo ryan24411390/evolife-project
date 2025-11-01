@@ -13655,6 +13655,10 @@ figcaption {
 .lowdown-disclaimer {
   color: #8a2b2e;
   font-family: DM Sans, sans-serif;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  padding-top: 1rem;
+  line-height: 1.6;
 }
 
 .chips-stack {
