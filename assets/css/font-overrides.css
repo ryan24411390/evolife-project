@@ -1,0 +1,159 @@
+/**
+ * Font Weight Overrides
+ * Makes all fonts heavier across the entire website
+ * This file overrides legacy CSS with heavier font weights
+ */
+
+/* ===== HEADINGS - BOLD (700) ===== */
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6,
+.heading-1, .heading-2, .heading-3, .heading-4, .heading-5, .heading-6 {
+  font-weight: 700 !important;
+}
+
+/* ===== PARAGRAPHS - SEMIBOLD (600) ===== */
+p,
+.paragraph,
+.body-text,
+.text-block,
+.rich-text p {
+  font-weight: 600 !important;
+}
+
+/* ===== BODY AND BASE TEXT - MEDIUM (500) ===== */
+body {
+  font-weight: 500 !important;
+}
+
+/* ===== LIST ITEMS ===== */
+li,
+ul li,
+ol li {
+  font-weight: 600 !important;
+}
+
+/* ===== BUTTONS - BOLD (700) ===== */
+button,
+.button,
+.btn,
+a.button,
+.w-button {
+  font-weight: 700 !important;
+}
+
+/* ===== LINKS IN NAVIGATION - SEMIBOLD (600) ===== */
+nav a,
+.nav-link,
+.navigation a,
+.menu a,
+.navbar a {
+  font-weight: 600 !important;
+}
+
+/* ===== FORM LABELS - SEMIBOLD (600) ===== */
+label,
+.form-label,
+.field-label {
+  font-weight: 600 !important;
+}
+
+/* ===== COMMON WEBFLOW CLASSES ===== */
+.text-span,
+.text-span-2,
+.text-span-3 {
+  font-weight: 600 !important;
+}
+
+/* ===== DISPLAY TEXT - BOLD (700) ===== */
+.display-text,
+.hero-heading,
+.hero-title,
+.section-heading,
+.page-title {
+  font-weight: 700 !important;
+}
+
+/* ===== CARD CONTENT ===== */
+.card p,
+.card-body p,
+.card-text {
+  font-weight: 600 !important;
+}
+
+.card h1, .card h2, .card h3, .card h4, .card h5, .card h6,
+.card-body h1, .card-body h2, .card-body h3, .card-body h4, .card-body h5, .card-body h6 {
+  font-weight: 700 !important;
+}
+
+/* ===== FEATURE TEXT ===== */
+.feature-text,
+.feature-description,
+.service-description {
+  font-weight: 600 !important;
+}
+
+/* ===== PRICING TEXT ===== */
+.price,
+.pricing-text,
+.cost {
+  font-weight: 700 !important;
+}
+
+/* ===== TESTIMONIALS ===== */
+.testimonial p,
+.testimonial-text,
+.review-text {
+  font-weight: 600 !important;
+}
+
+/* ===== FOOTER TEXT ===== */
+footer p,
+.footer-text {
+  font-weight: 500 !important;
+}
+
+footer h1, footer h2, footer h3, footer h4, footer h5, footer h6 {
+  font-weight: 700 !important;
+}
+
+/* ===== TABLE TEXT ===== */
+td, th,
+.table td,
+.table th {
+  font-weight: 500 !important;
+}
+
+thead th,
+.table thead th {
+  font-weight: 700 !important;
+}
+
+/* ===== SPECIFIC WEBFLOW/LEGACY CLASSES ===== */
+.text-size-large,
+.text-size-medium,
+.text-size-regular,
+.text-size-small {
+  font-weight: 600 !important;
+}
+
+/* ===== ENSURE NORMAL ELEMENTS DON'T GO TOO LIGHT ===== */
+span,
+div,
+section,
+article {
+  font-weight: inherit;
+}
+
+/* ===== STRONG AND BOLD ELEMENTS - EXTRA BOLD (800) ===== */
+strong,
+b,
+.bold {
+  font-weight: 800 !important;
+}
+
+/* ===== CAPTIONS AND SMALL TEXT - MEDIUM (500) ===== */
+.caption,
+.small-text,
+small {
+  font-weight: 500 !important;
+}

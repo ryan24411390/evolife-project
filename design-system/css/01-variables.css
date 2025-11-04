@@ -48,24 +48,24 @@
   --font-mono: 'SF Mono', Monaco, 'Cascadia Code', monospace;
 
   /* Font Sizes - Display */
-  --text-display-xl: 3.75rem;    /* 60px */
-  --text-display-lg: 3rem;       /* 48px */
-  --text-display-md: 2.5rem;     /* 40px */
+  --text-display-xl: 4.5rem;     /* 72px - Increased from 60px */
+  --text-display-lg: 3.5rem;     /* 56px - Increased from 48px */
+  --text-display-md: 3rem;       /* 48px - Increased from 40px */
 
   /* Font Sizes - Headings */
-  --text-h1: 2.25rem;            /* 36px */
-  --text-h2: 1.875rem;           /* 30px */
-  --text-h3: 1.5rem;             /* 24px */
-  --text-h4: 1.25rem;            /* 20px */
-  --text-h5: 1.125rem;           /* 18px */
-  --text-h6: 1rem;               /* 16px */
+  --text-h1: 2.75rem;            /* 44px - Increased from 36px */
+  --text-h2: 2.25rem;            /* 36px - Increased from 30px */
+  --text-h3: 1.875rem;           /* 30px - Increased from 24px */
+  --text-h4: 1.5rem;             /* 24px - Increased from 20px */
+  --text-h5: 1.375rem;           /* 22px - Increased from 18px */
+  --text-h6: 1.25rem;            /* 20px - Increased from 16px */
 
   /* Font Sizes - Body */
-  --text-body-xl: 1.25rem;       /* 20px */
-  --text-body-lg: 1.125rem;      /* 18px */
-  --text-body: 1rem;             /* 16px */
-  --text-body-sm: 0.875rem;      /* 14px */
-  --text-body-xs: 0.75rem;       /* 12px */
+  --text-body-xl: 1.5rem;        /* 24px - Increased from 20px */
+  --text-body-lg: 1.375rem;      /* 22px - Increased from 18px */
+  --text-body: 1.125rem;         /* 18px - Increased from 16px */
+  --text-body-sm: 1rem;          /* 16px - Increased from 14px */
+  --text-body-xs: 0.875rem;      /* 14px - Increased from 12px */
 
   /* Font Weights */
   --font-weight-light: 300;
