@@ -1,0 +1,33 @@
+/**
+ * EvoLife Design System - Master CSS
+ * Import all design system styles in correct order
+ * Version 2.0 - 2025 Redesign
+ */
+
+/* 1. Variables - Must load first */
+@import url('01-variables.css');
+
+/* 2. Reset - Normalize and base styles */
+@import url('02-reset.css');
+
+/* 3. Typography - Font styles and text utilities */
+@import url('03-typography.css');
+
+/* 4. Layout - Containers, grids, spacing */
+@import url('04-layout.css');
+
+/* 5. Components - UI components */
+@import url('05-components.css');
+
+/* 6. Navigation - Navbar and Footer */
+@import url('06-navigation.css');
+
+/**
+ * Usage in HTML:
+ * <link rel="stylesheet" href="/design-system/css/master.css">
+ *
+ * Or for individual files:
+ * <link rel="stylesheet" href="/design-system/css/01-variables.css">
+ * <link rel="stylesheet" href="/design-system/css/02-reset.css">
+ * ... etc
+ */

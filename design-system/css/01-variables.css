@@ -1,0 +1,170 @@
+/**
+ * EvoLife Design System Variables
+ * Version 2.0 - 2025 Redesign
+ */
+
+:root {
+  /* ===== COLOR SYSTEM ===== */
+
+  /* Primary Colors - Wellness Green (Changed from slate blue) */
+  --color-primary-dark: #7A8975;
+  --color-primary: #A3B19E;
+  --color-primary-light: #C8D5C2;
+
+  /* Secondary Colors - Wellness & Trust */
+  --color-secondary: #A3B19E;
+  --color-secondary-light: #C8D5C2;
+  --color-secondary-dark: #7A8975;
+
+  /* Neutral Colors - Foundation */
+  --color-neutral-50: #FAFAFA;
+  --color-neutral-100: #F5F5F5;
+  --color-neutral-200: #EEEEEE;
+  --color-neutral-300: #E0E0E0;
+  --color-neutral-400: #BDBDBD;
+  --color-neutral-500: #9E9E9E;
+  --color-neutral-600: #757575;
+  --color-neutral-700: #616161;
+  --color-neutral-800: #424242;
+  --color-neutral-900: #212121;
+  --color-white: #FFFFFF;
+  --color-black: #000000;
+
+  /* Semantic Colors - Actions & Feedback */
+  --color-success: #4CAF50;
+  --color-success-light: #C8E6C9;
+  --color-warning: #FF9800;
+  --color-warning-light: #FFE0B2;
+  --color-error: #E53935;
+  --color-error-light: #FFCDD2;
+  --color-info: #2196F3;
+  --color-info-light: #BBDEFB;
+
+  /* ===== TYPOGRAPHY ===== */
+
+  /* Font Families */
+  --font-display: 'Jost', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-body: 'Jost', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-mono: 'SF Mono', Monaco, 'Cascadia Code', monospace;
+
+  /* Font Sizes - Display */
+  --text-display-xl: 3.75rem;    /* 60px */
+  --text-display-lg: 3rem;       /* 48px */
+  --text-display-md: 2.5rem;     /* 40px */
+
+  /* Font Sizes - Headings */
+  --text-h1: 2.25rem;            /* 36px */
+  --text-h2: 1.875rem;           /* 30px */
+  --text-h3: 1.5rem;             /* 24px */
+  --text-h4: 1.25rem;            /* 20px */
+  --text-h5: 1.125rem;           /* 18px */
+  --text-h6: 1rem;               /* 16px */
+
+  /* Font Sizes - Body */
+  --text-body-xl: 1.25rem;       /* 20px */
+  --text-body-lg: 1.125rem;      /* 18px */
+  --text-body: 1rem;             /* 16px */
+  --text-body-sm: 0.875rem;      /* 14px */
+  --text-body-xs: 0.75rem;       /* 12px */
+
+  /* Font Weights */
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  /* Line Heights */
+  --line-height-tight: 1.1;
+  --line-height-snug: 1.25;
+  --line-height-normal: 1.4;      /* Updated: 1.5 → 1.4 for tighter text */
+  --line-height-relaxed: 1.6;     /* Updated: 1.75 → 1.6 less airy */
+  --line-height-loose: 1.8;       /* Updated: 2 → 1.8 more controlled */
+
+  /* Letter Spacing */
+  --letter-spacing-tight: -0.02em;
+  --letter-spacing-normal: 0;
+  --letter-spacing-wide: 0.02em;
+
+  /* ===== SPACING SYSTEM ===== */
+
+  --space-0: 0;
+  --space-1: 0.25rem;   /* 4px */
+  --space-2: 0.5rem;    /* 8px */
+  --space-3: 0.75rem;   /* 12px */
+  --space-4: 1rem;      /* 16px */
+  --space-5: 1.25rem;   /* 20px */
+  --space-6: 1.5rem;    /* 24px */
+  --space-8: 2rem;      /* 32px */
+  --space-10: 2.5rem;   /* 40px */
+  --space-12: 3rem;     /* 48px */
+  --space-16: 4rem;     /* 64px */
+  --space-20: 5rem;     /* 80px */
+  --space-24: 6rem;     /* 96px */
+  --space-32: 8rem;     /* 128px */
+
+  /* ===== LAYOUT ===== */
+
+  /* Container Widths */
+  --container-sm: 640px;
+  --container-md: 768px;
+  --container-lg: 1024px;
+  --container-xl: 1280px;
+  --container-2xl: 1536px;
+
+  /* Breakpoints */
+  --breakpoint-sm: 640px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+  --breakpoint-2xl: 1536px;
+
+  /* ===== BORDERS ===== */
+
+  /* Border Radius */
+  --radius-sm: 6px;      /* Updated: 4px → 6px smoother corners */
+  --radius-md: 10px;     /* Updated: 8px → 10px more modern */
+  --radius-lg: 14px;     /* Updated: 12px → 14px more premium */
+  --radius-xl: 18px;     /* Updated: 16px → 18px smoother */
+  --radius-2xl: 28px;    /* Updated: 24px → 28px extra smooth */
+  --radius-full: 9999px;
+
+  /* Border Widths */
+  --border-width-thin: 1px;
+  --border-width-normal: 2px;
+  --border-width-thick: 4px;
+
+  /* ===== SHADOWS ===== */
+
+  --shadow-xs: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px -1px rgba(0, 0, 0, 0.1);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+  --shadow-2xl: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  --shadow-focus: 0 0 0 3px rgba(44, 62, 80, 0.2);
+  --shadow-primary: 0 10px 25px -5px rgba(122, 137, 117, 0.2);  /* New: Colored shadow for primary elements */
+
+  /* ===== ANIMATIONS ===== */
+
+  /* Timing Functions */
+  --ease-in: cubic-bezier(0.4, 0, 1, 1);
+  --ease-out: cubic-bezier(0, 0, 0.2, 1);
+  --ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Duration */
+  --duration-fast: 150ms;
+  --duration-normal: 250ms;
+  --duration-slow: 350ms;
+
+  /* ===== Z-INDEX ===== */
+
+  --z-base: 0;
+  --z-dropdown: 1000;
+  --z-sticky: 1020;
+  --z-fixed: 1030;
+  --z-modal-backdrop: 1040;
+  --z-modal: 1050;
+  --z-popover: 1060;
+  --z-tooltip: 1070;
+}

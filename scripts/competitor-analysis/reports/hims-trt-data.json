@@ -1,0 +1,74 @@
+{
+  "title": "Hey now - page not found! | Hims",
+  "url": "https://www.hims.com/testosterone-replacement-therapy",
+  "hero": {
+    "exists": true,
+    "headline": null,
+    "subheadline": null,
+    "cta": [],
+    "backgroundType": "color"
+  },
+  "colors": {
+    "backgrounds": [],
+    "texts": [],
+    "buttons": [
+      "rgb(255, 255, 255)"
+    ]
+  },
+  "typography": {
+    "headings": [
+      {
+        "tag": "h1",
+        "fontFamily": "sofia-pro, SofiaProWeb, Helvetica, Arial, sans-serif",
+        "fontSize": "62px",
+        "fontWeight": "400",
+        "lineHeight": "60.14px"
+      },
+      {
+        "tag": "h2",
+        "fontFamily": "sofia-pro, SofiaProWeb, Helvetica, Arial, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "lineHeight": "31.2px"
+      },
+      {
+        "tag": "h3",
+        "fontFamily": "sofia-pro, SofiaProWeb, Helvetica, Arial, sans-serif",
+        "fontSize": "43px",
+        "fontWeight": "400",
+        "lineHeight": "43px"
+      }
+    ],
+    "bodyFonts": [
+      {
+        "fontFamily": "sofia-pro, SofiaProWeb, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "lineHeight": "22.4px"
+      }
+    ]
+  },
+  "sections": [],
+  "ctas": [
+    {
+      "text": "Log in",
+      "href": null,
+      "position": 10.5
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 3.5
+    }
+  ],
+  "forms": [],
+  "images": {
+    "total": 2,
+    "types": {}
+  },
+  "trustSignals": {
+    "testimonials": 0,
+    "doctorImages": 0,
+    "certifications": 0,
+    "stats": []
+  }
+}

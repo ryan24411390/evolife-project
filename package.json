@@ -8,12 +8,16 @@
     "remove-trackers": "node treatment-pages/scripts/remove-trackers.js",
     "make-offline": "node treatment-pages/scripts/make-offline.js",
     "rebrand": "node treatment-pages/scripts/rebrand.js",
-    "serve": "python3 -m http.server 8080"
+    "serve": "python3 -m http.server 8080",
+    "analyze-competitors": "node scripts/competitor-analysis/analyze-all.js",
+    "analyze-competitor": "node scripts/competitor-analysis/analyze-competitor.js"
   },
   "dependencies": {
     "playwright": "^1.40.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@playwright/test": "^1.56.1"
+  },
   "author": "Evolife Wellness",
   "license": "UNLICENSED",
   "private": true

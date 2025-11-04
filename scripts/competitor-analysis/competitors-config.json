@@ -1,0 +1,45 @@
+{
+  "competitors": [
+    {
+      "name": "hims-testosterone",
+      "url": "https://www.forhims.com/testosterone-replacement-therapy",
+      "description": "Hims TRT product page",
+      "category": "mens-health"
+    },
+    {
+      "name": "hims-weight-loss",
+      "url": "https://www.forhims.com/weight-loss",
+      "description": "Hims weight loss/GLP-1 page",
+      "category": "weight-management"
+    },
+    {
+      "name": "hims-hair",
+      "url": "https://www.forhims.com/hair-loss",
+      "description": "Hims hair loss treatment page",
+      "category": "mens-health"
+    },
+    {
+      "name": "ro-testosterone",
+      "url": "https://ro.co/testosterone-replacement",
+      "description": "Ro testosterone replacement page",
+      "category": "mens-health"
+    },
+    {
+      "name": "ro-weight-loss",
+      "url": "https://ro.co/weight-loss",
+      "description": "Ro weight loss program page",
+      "category": "weight-management"
+    },
+    {
+      "name": "maximus-trt",
+      "url": "https://www.maximustribe.com/treatments/testosterone-replacement-therapy",
+      "description": "Maximus TRT page",
+      "category": "mens-health"
+    },
+    {
+      "name": "NOTE",
+      "url": "UPDATE_URLS_HERE",
+      "description": "Replace the URLs above with actual competitor URLs. Add Agent Aiden, Mates, New Mates when URLs are provided by user."
+    }
+  ]
+}

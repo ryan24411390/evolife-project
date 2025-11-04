@@ -1,0 +1,481 @@
+{
+  "title": "NAD+ Injections for Energy, Longevity &amp; Healthy Aging | Eden Health",
+  "url": "https://www.tryeden.com/treatment/nad",
+  "hero": {
+    "exists": true,
+    "headline": "NAD+ Injection",
+    "subheadline": "Your goals, your plan",
+    "cta": [
+      {
+        "text": "See if you qualify",
+        "href": "https://www.tryeden.com/intake/nad"
+      },
+      {
+        "text": "See if you qualify",
+        "href": "https://www.tryeden.com/intake/nad"
+      }
+    ],
+    "backgroundType": "image"
+  },
+  "colors": {
+    "backgrounds": [],
+    "texts": [],
+    "buttons": [
+      "rgb(17, 20, 19)",
+      "rgb(239, 239, 239)",
+      "rgb(239, 239, 239)",
+      "rgb(239, 239, 239)",
+      "rgb(239, 239, 239)",
+      "rgb(239, 239, 239)",
+      "rgb(239, 239, 239)",
+      "rgb(239, 239, 239)",
+      "rgb(17, 20, 19)",
+      "rgb(17, 20, 19)",
+      "rgb(245, 245, 247)",
+      "rgb(245, 245, 247)",
+      "rgb(245, 245, 247)",
+      "rgb(245, 245, 247)",
+      "rgb(245, 245, 247)",
+      "rgb(245, 245, 247)",
+      "rgba(0, 0, 0, 0.05)",
+      "rgba(29, 29, 31, 0.1)",
+      "rgb(17, 20, 19)",
+      "rgb(17, 20, 19)",
+      "rgb(17, 20, 19)",
+      "rgb(17, 20, 19)",
+      "rgba(0, 0, 0, 0.05)",
+      "rgba(29, 29, 31, 0.1)",
+      "rgb(17, 20, 19)",
+      "rgba(0, 0, 0, 0.05)",
+      "rgba(29, 29, 31, 0.1)",
+      "rgb(245, 245, 247)",
+      "rgb(245, 245, 247)",
+      "rgb(245, 245, 247)",
+      "rgb(245, 245, 247)",
+      "rgba(0, 0, 0, 0.05)",
+      "rgba(29, 29, 31, 0.1)",
+      "rgb(17, 20, 19)",
+      "rgb(17, 20, 19)",
+      "rgb(17, 20, 19)",
+      "rgb(17, 20, 19)",
+      "rgb(17, 20, 19)",
+      "rgb(17, 20, 19)",
+      "rgba(0, 0, 0, 0.05)",
+      "rgba(29, 29, 31, 0.1)",
+      "rgb(17, 20, 19)",
+      "rgb(17, 20, 19)",
+      "rgb(17, 20, 19)"
+    ]
+  },
+  "typography": {
+    "headings": [
+      {
+        "tag": "h1",
+        "fontFamily": "\"Satoshi Variable\", Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": "700",
+        "lineHeight": "52.8px"
+      },
+      {
+        "tag": "h2",
+        "fontFamily": "\"Satoshi Variable\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "700",
+        "lineHeight": "22px"
+      },
+      {
+        "tag": "h3",
+        "fontFamily": "\"Satoshi Variable\", Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "lineHeight": "13.2px"
+      }
+    ],
+    "bodyFonts": [
+      {
+        "fontFamily": "\"Satoshi Variable\", Arial, sans-serif",
+        "fontSize": "16px",
+        "lineHeight": "22.4px"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "index": 0,
+      "heading": "NAD+ Injection",
+      "classes": "section_product-hero"
+    },
+    {
+      "index": 1,
+      "heading": "Feel stronger and age with confidence. On your terms.",
+      "classes": "section_split"
+    },
+    {
+      "index": 2,
+      "heading": "Designed to support how you feel and function.",
+      "classes": "section_icons"
+    },
+    {
+      "index": 3,
+      "heading": "What are the benefits of NAD+?",
+      "classes": "section_photo-slider"
+    },
+    {
+      "index": 4,
+      "heading": "What the research shows about NAD+",
+      "classes": "section_split"
+    },
+    {
+      "index": 5,
+      "heading": "Lab tested medications for quality & potency",
+      "classes": "section_labtest"
+    },
+    {
+      "index": 6,
+      "heading": "Hit your health goals safely & affordably in 3 simple steps",
+      "classes": "section_3step"
+    },
+    {
+      "index": 7,
+      "heading": "Eden helps people discover and then become the ideal version of themselves.",
+      "classes": "section_expert-quote"
+    },
+    {
+      "index": 8,
+      "heading": "Ready to feel like you again?",
+      "classes": "section_split"
+    },
+    {
+      "index": 9,
+      "heading": "Join the growing community investing in longevity",
+      "classes": "section_photo-small-slider"
+    },
+    {
+      "index": 10,
+      "heading": "No heading",
+      "classes": "section_testimonial-cards"
+    },
+    {
+      "index": 11,
+      "heading": "Learn more about NAD+ Injection",
+      "classes": "section_faq"
+    },
+    {
+      "index": 12,
+      "heading": "You may also be interested in",
+      "classes": "section_products"
+    },
+    {
+      "index": 13,
+      "heading": "Your guide to health and wellness starts here.",
+      "classes": "section_related-blogs"
+    },
+    {
+      "index": 14,
+      "heading": "NAD+ Injection",
+      "classes": "section_cta-usp-v2"
+    },
+    {
+      "index": 15,
+      "heading": "No heading",
+      "classes": "section_fineprint"
+    },
+    {
+      "index": 16,
+      "heading": "No heading",
+      "classes": "section_citations"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Get started",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 8.296875
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 0
+    },
+    {
+      "text": "Back",
+      "href": null,
+      "position": 0
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 0
+    },
+    {
+      "text": "Weight Loss",
+      "href": null,
+      "position": 0
+    },
+    {
+      "text": "Strength",
+      "href": null,
+      "position": 0
+    },
+    {
+      "text": "Anti-Aging",
+      "href": null,
+      "position": 0
+    },
+    {
+      "text": "Hair Growth",
+      "href": null,
+      "position": 0
+    },
+    {
+      "text": "Mood",
+      "href": null,
+      "position": 0
+    },
+    {
+      "text": "More",
+      "href": null,
+      "position": 0
+    },
+    {
+      "text": "See if you qualify",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 345.984375
+    },
+    {
+      "text": "See if you qualify",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 0
+    },
+    {
+      "text": "See if you qualify",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 0
+    },
+    {
+      "text": "See if you qualify",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 0
+    },
+    {
+      "text": "See if you qualify",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 0
+    },
+    {
+      "text": "See if you qualify",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 0
+    },
+    {
+      "text": "See if you qualify",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 4060.1875
+    },
+    {
+      "text": "See if you qualify",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 0
+    },
+    {
+      "text": "Previous Slide",
+      "href": "https://www.tryeden.com/treatment/nad#",
+      "position": 4190.140625
+    },
+    {
+      "text": "Next Slide",
+      "href": "https://www.tryeden.com/treatment/nad#",
+      "position": 4190.140625
+    },
+    {
+      "text": "See if you qualify",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 4919.265625
+    },
+    {
+      "text": "Learn More",
+      "href": "https://www.tryeden.com/treatment/nad#",
+      "position": 5620.8125
+    },
+    {
+      "text": "See if you qualify",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 6446.421875
+    },
+    {
+      "text": "See if you're eligible",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 6444.78125
+    },
+    {
+      "text": "See if you qualify",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 8855.921875
+    },
+    {
+      "text": "See if you qualify",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 9669.515625
+    },
+    {
+      "text": "Previous Slide",
+      "href": "https://www.tryeden.com/treatment/nad#",
+      "position": 9897.515625
+    },
+    {
+      "text": "Next Slide",
+      "href": "https://www.tryeden.com/treatment/nad#",
+      "position": 9897.515625
+    },
+    {
+      "text": "See if you qualify",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 10239.453125
+    },
+    {
+      "text": "See if you're eligible",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 10237.8125
+    },
+    {
+      "text": "Previous Slide",
+      "href": "https://www.tryeden.com/treatment/nad#",
+      "position": 10929
+    },
+    {
+      "text": "Next Slide",
+      "href": "https://www.tryeden.com/treatment/nad#",
+      "position": 10929
+    },
+    {
+      "text": "Get started",
+      "href": "https://www.tryeden.com/intake/nad-nasal-spray",
+      "position": 13191.34375
+    },
+    {
+      "text": "Learn more",
+      "href": "https://www.tryeden.com/treatment/nad-nasal-spray",
+      "position": 13192.34375
+    },
+    {
+      "text": "Get started",
+      "href": "https://www.tryeden.com/intake/nad-skin-cream",
+      "position": 13191.34375
+    },
+    {
+      "text": "Learn more",
+      "href": "https://www.tryeden.com/treatment/nad-facial-cream",
+      "position": 13192.34375
+    },
+    {
+      "text": "Get started",
+      "href": "https://www.tryeden.com/intake/micb12",
+      "position": 13191.34375
+    },
+    {
+      "text": "Learn more",
+      "href": "https://www.tryeden.com/treatment/mic-b12",
+      "position": 13192.34375
+    },
+    {
+      "text": "Get started",
+      "href": "https://www.tryeden.com/intake/methyleneblue",
+      "position": 13191.34375
+    },
+    {
+      "text": "Learn more",
+      "href": "https://www.tryeden.com/treatment/methylene-blue",
+      "position": 13192.34375
+    },
+    {
+      "text": "Previous Slide",
+      "href": "https://www.tryeden.com/treatment/nad#",
+      "position": 13372.328125
+    },
+    {
+      "text": "Next Slide",
+      "href": "https://www.tryeden.com/treatment/nad#",
+      "position": 13372.328125
+    },
+    {
+      "text": "Read More",
+      "href": "https://www.tryeden.com/post/can-nad-be-harmful",
+      "position": 14085.53125
+    },
+    {
+      "text": "Read More",
+      "href": "https://www.tryeden.com/post/nad-benefits-for-women-explained",
+      "position": 14085.53125
+    },
+    {
+      "text": "Read More",
+      "href": "https://www.tryeden.com/post/what-nad-does-for-men",
+      "position": 14085.53125
+    },
+    {
+      "text": "Read More",
+      "href": "https://www.tryeden.com/post/is-nad-good-for-you",
+      "position": 14085.53125
+    },
+    {
+      "text": "Read More",
+      "href": "https://www.tryeden.com/post/what-does-nad-do-in-the-body",
+      "position": 14085.53125
+    },
+    {
+      "text": "Read More",
+      "href": "https://www.tryeden.com/post/nad-supplement-side-effects-faqs",
+      "position": 14085.53125
+    },
+    {
+      "text": "Previous Slide",
+      "href": "https://www.tryeden.com/treatment/nad#",
+      "position": 14202.875
+    },
+    {
+      "text": "Next Slide",
+      "href": "https://www.tryeden.com/treatment/nad#",
+      "position": 14202.875
+    },
+    {
+      "text": "Get started",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 14731.96875
+    },
+    {
+      "text": "See if you're eligible",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 14731.96875
+    },
+    {
+      "text": "See if you qualify",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 0
+    },
+    {
+      "text": "See if you qualify",
+      "href": "https://www.tryeden.com/intake/nad",
+      "position": 0
+    }
+  ],
+  "forms": [
+    {
+      "action": "https://www.tryeden.com/treatment/nad",
+      "fields": 2
+    },
+    {
+      "action": "https://www.tryeden.com/treatment/nad",
+      "fields": 4
+    }
+  ],
+  "images": {
+    "total": 140,
+    "types": {}
+  },
+  "trustSignals": {
+    "testimonials": 56,
+    "doctorImages": 1,
+    "certifications": 0,
+    "stats": []
+  }
+}

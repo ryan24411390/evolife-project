@@ -43,3 +43,28 @@ build/
 
 # Claude Code configuration
 .claude/
+
+# Backup files
+*.backup
+*.backup-*
+*.bak
+*_backup_*
+*.yolo_backup
+*.pre_treatment_removal.*
+*_P2*.html
+*_P2*.js
+temp_*.html
+
+# Test results
+test-results/
+.playwright-artifacts*/
+playwright-report/
+
+# Archive folders
+archive/
+backups*/
+treatment-pages-backup*/
+treatment-pages/
+
+# Working files
+scripts/*-extracted.html

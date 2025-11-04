@@ -1,0 +1,486 @@
+{
+  "title": "Telehealth for a healthy, handsome you | Hims",
+  "url": "https://www.hims.com/",
+  "hero": {
+    "exists": true,
+    "headline": null,
+    "subheadline": "Better sexHair regrowthWeight lossTestosteroneSkin careMental healthBetter sex personalized to you",
+    "cta": [],
+    "backgroundType": "color"
+  },
+  "colors": {
+    "backgrounds": [],
+    "texts": [],
+    "buttons": [
+      "rgb(255, 255, 255)",
+      "rgba(0, 0, 0, 0.54)",
+      "rgba(0, 0, 0, 0.54)",
+      "rgb(255, 255, 255)",
+      "rgba(255, 255, 255, 0.07)",
+      "rgb(10, 38, 51)",
+      "rgb(10, 38, 51)",
+      "rgb(255, 255, 255)",
+      "rgba(255, 255, 255, 0.07)",
+      "rgba(0, 0, 0, 0.12)",
+      "rgba(0, 0, 0, 0.12)",
+      "rgba(0, 0, 0, 0.12)",
+      "rgb(255, 255, 255)",
+      "rgba(255, 255, 255, 0.07)",
+      "rgba(255, 255, 255, 0.17)",
+      "rgba(255, 255, 255, 0.17)",
+      "rgba(255, 255, 255, 0.17)",
+      "rgba(255, 255, 255, 0.17)",
+      "rgba(255, 255, 255, 0.17)",
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(0, 0, 0)",
+      "rgb(0, 0, 0)",
+      "rgb(0, 0, 0)",
+      "rgb(255, 255, 255)",
+      "rgb(255, 255, 255)",
+      "rgb(255, 255, 255)",
+      "rgb(255, 255, 255)",
+      "rgb(255, 255, 255)",
+      "rgba(0, 0, 0, 0.54)",
+      "rgba(0, 0, 0, 0.54)",
+      "rgba(0, 0, 0, 0.54)",
+      "rgba(0, 0, 0, 0.54)",
+      "rgba(0, 0, 0, 0.06)",
+      "rgba(0, 0, 0, 0.06)",
+      "rgba(0, 0, 0, 0.06)",
+      "rgba(0, 0, 0, 0.06)",
+      "rgba(0, 0, 0, 0.06)",
+      "rgba(0, 0, 0, 0.06)",
+      "rgba(0, 0, 0, 0.06)",
+      "rgb(0, 0, 0)",
+      "rgb(255, 255, 255)",
+      "rgb(255, 255, 255)",
+      "rgb(255, 255, 255)",
+      "rgb(255, 255, 255)",
+      "rgb(255, 255, 255)",
+      "rgb(255, 255, 255)",
+      "rgb(255, 255, 255)",
+      "rgb(255, 255, 255)"
+    ]
+  },
+  "typography": {
+    "headings": [
+      {
+        "tag": "h2",
+        "fontFamily": "sofia-pro, SofiaProWeb, Helvetica, Arial, sans-serif",
+        "fontSize": "87px",
+        "fontWeight": "400",
+        "lineHeight": "97.875px"
+      },
+      {
+        "tag": "h3",
+        "fontFamily": "sofia-pro, SofiaProWeb, Helvetica, Arial, sans-serif",
+        "fontSize": "62px",
+        "fontWeight": "400",
+        "lineHeight": "69.75px"
+      }
+    ],
+    "bodyFonts": [
+      {
+        "fontFamily": "sofia-pro, SofiaProWeb, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "lineHeight": "22.4px"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "index": 0,
+      "heading": "Better sexHair regrowthWeight lossTestosteroneSkin careMental healthBetter sex personalized to you",
+      "classes": "homepage-frame-utils__Section-sc-615ae6f3-1 homepage-frame-utils__AtfSection-sc-615ae6f3-2 fZykEh biktme"
+    },
+    {
+      "index": 1,
+      "heading": "No heading",
+      "classes": "homepage-frame-utils__Section-sc-615ae6f3-1 bmpEwb"
+    },
+    {
+      "index": 2,
+      "heading": "Moving in the",
+      "classes": "homepage-frame-utils__Section-sc-615ae6f3-1 bmpEwb"
+    },
+    {
+      "index": 3,
+      "heading": "Brandon, 41",
+      "classes": "homepage-frame-utils__Section-sc-615ae6f3-1 bmpEwb"
+    },
+    {
+      "index": 4,
+      "heading": "No heading",
+      "classes": "homepage-frame-utils__Section-sc-615ae6f3-1 kYGKwR"
+    },
+    {
+      "index": 5,
+      "heading": "No heading",
+      "classes": "homepage-frame-utils__Section-sc-615ae6f3-1 fZykEh"
+    },
+    {
+      "index": 6,
+      "heading": "What is Hims?",
+      "classes": "homepage-frame-utils__Section-sc-615ae6f3-1 fZykEh"
+    },
+    {
+      "index": 7,
+      "heading": "No heading",
+      "classes": "delta-breeze-style__Section-sc-8645928-1 iMXJWW"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Log in",
+      "href": null,
+      "position": 58.5
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 51.5
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 0
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 0
+    },
+    {
+      "text": "Get started",
+      "href": "https://www.hims.com/g/i/tt",
+      "position": 1308.75
+    },
+    {
+      "text": "Get started",
+      "href": null,
+      "position": 1308.75
+    },
+    {
+      "text": "Do I have low T?",
+      "href": "https://www.hims.com/g/i/tt",
+      "position": 1308.75
+    },
+    {
+      "text": "Do I have low T?",
+      "href": null,
+      "position": 1308.75
+    },
+    {
+      "text": "Learn more",
+      "href": null,
+      "position": 1798.75
+    },
+    {
+      "text": "Start testing",
+      "href": null,
+      "position": 1798.75
+    },
+    {
+      "text": "Get started",
+      "href": "https://www.hims.com/g/i/wm",
+      "position": 2607.9375
+    },
+    {
+      "text": "Get started",
+      "href": null,
+      "position": 2607.9375
+    },
+    {
+      "text": "See if I'm eligible",
+      "href": "https://www.hims.com/g/i/wm",
+      "position": 2607.9375
+    },
+    {
+      "text": "See if I'm eligible",
+      "href": null,
+      "position": 2607.9375
+    },
+    {
+      "text": "Get results",
+      "href": "https://www.hims.com/g/i/wm",
+      "position": 3418.109375
+    },
+    {
+      "text": "Get results",
+      "href": null,
+      "position": 3418.109375
+    },
+    {
+      "text": "Get started",
+      "href": "https://www.hims.com/g/i/wm",
+      "position": 2992.21875
+    },
+    {
+      "text": "Get started",
+      "href": null,
+      "position": 2992.21875
+    },
+    {
+      "text": "Get started",
+      "href": "https://www.hims.com/g/i/wm",
+      "position": 4115.703125
+    },
+    {
+      "text": "Get started",
+      "href": null,
+      "position": 4115.703125
+    },
+    {
+      "text": "Get started",
+      "href": "https://www.hims.com/g/i/sh",
+      "position": 4944.890625
+    },
+    {
+      "text": "Get started",
+      "href": null,
+      "position": 4944.890625
+    },
+    {
+      "text": "Is this right for me?",
+      "href": "https://www.hims.com/g/i/sh",
+      "position": 4944.890625
+    },
+    {
+      "text": "Is this right for me?",
+      "href": null,
+      "position": 4944.890625
+    },
+    {
+      "text": "Get started",
+      "href": null,
+      "position": 5334.890625
+    },
+    {
+      "text": "Get hard",
+      "href": null,
+      "position": 5583.890625
+    },
+    {
+      "text": "Last longer",
+      "href": null,
+      "position": 5636.890625
+    },
+    {
+      "text": "Staying hard",
+      "href": null,
+      "position": 5689.890625
+    },
+    {
+      "text": "All of the above",
+      "href": null,
+      "position": 5742.890625
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 5392.890625
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 5392.890625
+    },
+    {
+      "text": "Get results",
+      "href": "https://www.hims.com/g/i/sh",
+      "position": 5768.890625
+    },
+    {
+      "text": "Get results",
+      "href": null,
+      "position": 5768.890625
+    },
+    {
+      "text": "Get started",
+      "href": "https://www.hims.com/",
+      "position": 6452
+    },
+    {
+      "text": "Get started",
+      "href": null,
+      "position": 6452
+    },
+    {
+      "text": "Get personalized treatment",
+      "href": "https://www.hims.com/",
+      "position": 6612
+    },
+    {
+      "text": "Get personalized treatment",
+      "href": null,
+      "position": 6612
+    },
+    {
+      "text": "Find my treatment",
+      "href": "https://www.hims.com/",
+      "position": 7119.859375
+    },
+    {
+      "text": "Find my treatment",
+      "href": null,
+      "position": 7119.859375
+    },
+    {
+      "text": "Get personalized treatment",
+      "href": "https://www.hims.com/",
+      "position": 7294
+    },
+    {
+      "text": "Get personalized treatment",
+      "href": null,
+      "position": 7294
+    },
+    {
+      "text": "Explore",
+      "href": "https://www.hims.com/blog/is-cialis-over-the-counter",
+      "position": 8648.046875
+    },
+    {
+      "text": "Explore",
+      "href": "https://www.hims.com/blog/6-ways-to-increase-male-sensitivity",
+      "position": 8648.046875
+    },
+    {
+      "text": "Explore",
+      "href": "https://www.hims.com/blog/weight",
+      "position": 8648.046875
+    },
+    {
+      "text": "Explore",
+      "href": "https://www.hims.com/blog/how-long-before-minoxidil-starts-working",
+      "position": 8648.046875
+    },
+    {
+      "text": "Explore",
+      "href": "https://www.hims.com/blog/cost-of-weight-loss-drugs",
+      "position": 8648.046875
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 0
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 0
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 0
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 0
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 9529.421875
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 9679.796875
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 9830.171875
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 9980.546875
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 10130.921875
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 10281.296875
+    },
+    {
+      "text": "Source here",
+      "href": "https://news.hims.com/newsroom/how-hims-hers-makes-personalized-care-happen",
+      "position": 10559.421875
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 10431.671875
+    },
+    {
+      "text": "Get the guide",
+      "href": null,
+      "position": 10988.984375
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 650
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 1528
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 1528
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 1528
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 1528
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 1528
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 650
+    },
+    {
+      "text": "",
+      "href": null,
+      "position": 1528
+    }
+  ],
+  "forms": [
+    {
+      "action": "https://www.hims.com/",
+      "fields": 1
+    }
+  ],
+  "images": {
+    "total": 6,
+    "types": {}
+  },
+  "trustSignals": {
+    "testimonials": 49,
+    "doctorImages": 0,
+    "certifications": 0,
+    "stats": []
+  }
+}

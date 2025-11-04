@@ -1,0 +1,919 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-11-03",
+  "products": [
+    {
+      "slug": "sermorelin",
+      "sku": "EVO-008",
+      "meta": {
+        "title": "Sermorelin | Growth Hormone Therapy | Anti-Aging Treatment | EvoLife",
+        "description": "Stimulate natural HGH production with physician-prescribed Sermorelin. Supports muscle maintenance, fat loss, and anti-aging. Doctor-supervised therapy. $235/month."
+      },
+      "hero": {
+        "category": "Advanced Peptides • Growth Hormone Therapy",
+        "title": "Sermorelin",
+        "subtitle": "Stimulate your body's natural growth hormone production with physician-prescribed Sermorelin—a research-backed peptide that supports muscle maintenance, fat metabolism, and healthy aging through natural HGH optimization.",
+        "price": "235",
+        "priceNote": "Includes medication, doctor consultations, and ongoing support"
+      },
+      "stats": [
+        {
+          "number": "14,300+",
+          "label": "Patients Treated"
+        },
+        {
+          "number": "30-40%",
+          "label": "HGH Increase"
+        },
+        {
+          "number": "96%",
+          "label": "Patient Satisfaction"
+        },
+        {
+          "number": "Lab Tested",
+          "label": "Quality & Potency"
+        }
+      ],
+      "whatIs": {
+        "heading": "What is Sermorelin?",
+        "description": "Sermorelin is a growth hormone-releasing hormone (GHRH) analog that stimulates the pituitary gland to produce and release human growth hormone (HGH) naturally. Unlike synthetic HGH, Sermorelin works with your body's regulatory systems to optimize growth hormone levels safely and effectively.",
+        "infoBox": {
+          "title": "How Sermorelin Works",
+          "intro": "Sermorelin stimulates natural HGH production through multiple pathways:",
+          "mechanisms": [
+            "Binds to GHRH receptors in the pituitary gland to trigger natural HGH release",
+            "Maintains pulsatile secretion patterns that mimic the body's natural rhythm",
+            "Preserves feedback mechanisms that prevent excessive hormone production",
+            "Supports healthy aging without the risks associated with direct HGH administration"
+          ],
+          "conclusion": "Unlike direct HGH replacement, Sermorelin encourages your body to produce growth hormone naturally—resulting in sustainable, physician-supervised hormonal optimization."
+        }
+      },
+      "benefits": {
+        "subtitle": "Why thousands choose Sermorelin for natural HGH optimization",
+        "items": [
+          {
+            "icon": "💪",
+            "title": "Muscle Maintenance",
+            "description": "Supports lean muscle mass preservation and protein synthesis—helping you maintain strength and physical performance as you age."
+          },
+          {
+            "icon": "🔥",
+            "title": "Fat Metabolism",
+            "description": "Enhances lipolysis and fat oxidation, particularly targeting stubborn abdominal fat stores for improved body composition."
+          },
+          {
+            "icon": "😴",
+            "title": "Sleep Quality",
+            "description": "Improves deep sleep stages and overall sleep architecture—critical for recovery, cognitive function, and hormonal balance."
+          },
+          {
+            "icon": "⚡",
+            "title": "Energy & Vitality",
+            "description": "Increases cellular energy production and metabolic efficiency, reducing fatigue and enhancing daily stamina."
+          },
+          {
+            "icon": "🧠",
+            "title": "Cognitive Function",
+            "description": "Supports mental clarity, focus, and memory by optimizing growth hormone's neuroprotective effects on brain tissue."
+          },
+          {
+            "icon": "🛡️",
+            "title": "Immune Support",
+            "description": "Strengthens immune system function through thymus gland regeneration and enhanced immune cell production."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "mots-c",
+      "sku": "EVO-007",
+      "meta": {
+        "title": "MOTS-C | Mitochondrial Peptide | Metabolic Optimization | EvoLife",
+        "description": "Optimize cellular energy and metabolism with physician-prescribed MOTS-C. Supports mitochondrial function, metabolic health, and energy regulation. $235/month."
+      },
+      "hero": {
+        "category": "Advanced Peptides • Metabolic Optimization",
+        "title": "MOTS-C",
+        "subtitle": "Optimize your cellular energy production with physician-prescribed MOTS-C—a mitochondrial-derived peptide that enhances metabolic function, improves insulin sensitivity, and supports healthy aging at the cellular level.",
+        "price": "235",
+        "priceNote": "Includes medication, doctor consultations, and ongoing support"
+      },
+      "stats": [
+        {
+          "number": "14,300+",
+          "label": "Patients Treated"
+        },
+        {
+          "number": "40-50%",
+          "label": "Energy Increase"
+        },
+        {
+          "number": "96%",
+          "label": "Patient Satisfaction"
+        },
+        {
+          "number": "Lab Tested",
+          "label": "Quality & Potency"
+        }
+      ],
+      "whatIs": {
+        "heading": "What is MOTS-C?",
+        "description": "MOTS-C (Mitochondrial Open Reading Frame of the Twelve S rRNA-C) is a novel mitochondrial-derived peptide that regulates cellular energy metabolism. Encoded in the mitochondrial genome, MOTS-C acts as a metabolic regulator, improving insulin sensitivity, enhancing fat oxidation, and protecting against age-related metabolic decline.",
+        "infoBox": {
+          "title": "How MOTS-C Works",
+          "intro": "MOTS-C optimizes cellular metabolism through multiple mechanisms:",
+          "mechanisms": [
+            "Activates AMPK pathways to enhance cellular energy production and utilization",
+            "Improves glucose uptake and insulin sensitivity in muscle and fat tissue",
+            "Increases mitochondrial biogenesis for improved cellular energy capacity",
+            "Enhances fat oxidation while preserving lean muscle mass during exercise"
+          ],
+          "conclusion": "By targeting mitochondrial function—the powerhouse of your cells—MOTS-C addresses metabolic dysfunction at its source, promoting sustained energy, metabolic health, and healthy aging."
+        }
+      },
+      "benefits": {
+        "subtitle": "Why thousands choose MOTS-C for metabolic optimization",
+        "items": [
+          {
+            "icon": "⚡",
+            "title": "Enhanced Energy Production",
+            "description": "Increases ATP production and cellular energy efficiency, reducing fatigue and improving physical and mental stamina."
+          },
+          {
+            "icon": "🎯",
+            "title": "Metabolic Optimization",
+            "description": "Regulates glucose and lipid metabolism, supporting healthy blood sugar levels and metabolic flexibility."
+          },
+          {
+            "icon": "🏃",
+            "title": "Exercise Performance",
+            "description": "Improves endurance, reduces exercise-induced fatigue, and enhances recovery through optimized mitochondrial function."
+          },
+          {
+            "icon": "🔬",
+            "title": "Insulin Sensitivity",
+            "description": "Enhances cellular insulin response and glucose uptake—critical for metabolic health and weight management."
+          },
+          {
+            "icon": "🛡️",
+            "title": "Cellular Protection",
+            "description": "Protects against oxidative stress and mitochondrial dysfunction associated with aging and metabolic disease."
+          },
+          {
+            "icon": "🧬",
+            "title": "Longevity Support",
+            "description": "Activates pathways associated with healthy aging and metabolic resilience at the cellular level."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "tesamorelin",
+      "sku": "EVO-006",
+      "meta": {
+        "title": "Tesamorelin | Visceral Fat Reduction | Growth Hormone Therapy | EvoLife",
+        "description": "Target stubborn visceral fat with Tesamorelin—FDA-approved GHRH analog that reduces abdominal fat while preserving lean muscle. Doctor-supervised therapy. $235/month."
+      },
+      "hero": {
+        "category": "Advanced Peptides • Metabolic Health",
+        "title": "Tesamorelin",
+        "subtitle": "Target stubborn visceral abdominal fat with Tesamorelin—the only FDA-approved growth hormone-releasing hormone (GHRH) specifically indicated for visceral fat reduction, proven to decrease waist circumference while preserving lean muscle mass.",
+        "price": "235",
+        "priceNote": "Includes medication, doctor consultations, and ongoing support"
+      },
+      "stats": [
+        {
+          "number": "14,300+",
+          "label": "Patients Treated"
+        },
+        {
+          "number": "15-20%",
+          "label": "Visceral Fat Reduction"
+        },
+        {
+          "number": "96%",
+          "label": "Patient Satisfaction"
+        },
+        {
+          "number": "Lab Tested",
+          "label": "Quality & Potency"
+        }
+      ],
+      "whatIs": {
+        "heading": "What is Tesamorelin?",
+        "description": "Tesamorelin is a synthetic analog of growth hormone-releasing hormone (GHRH) that was specifically developed to target visceral adipose tissue—the dangerous fat surrounding internal organs. Unlike general weight loss medications, Tesamorelin precisely addresses metabolic dysfunction by stimulating endogenous growth hormone production, leading to selective reduction of visceral fat deposits.",
+        "infoBox": {
+          "title": "How Tesamorelin Works",
+          "intro": "Tesamorelin targets visceral fat through specialized mechanisms:",
+          "mechanisms": [
+            "Stimulates pituitary release of growth hormone to mobilize visceral fat stores",
+            "Enhances lipolysis specifically in abdominal adipose tissue",
+            "Improves lipid metabolism and reduces triglyceride accumulation",
+            "Preserves lean muscle mass while selectively reducing visceral fat"
+          ],
+          "conclusion": "By targeting the pituitary-growth hormone axis, Tesamorelin addresses the hormonal imbalance underlying visceral obesity—resulting in sustained fat reduction without muscle loss."
+        }
+      },
+      "benefits": {
+        "subtitle": "Why thousands choose Tesamorelin for visceral fat reduction",
+        "items": [
+          {
+            "icon": "📏",
+            "title": "Visceral Fat Reduction",
+            "description": "Clinical trials demonstrate 15-20% reduction in dangerous visceral adipose tissue—the fat linked to metabolic disease and cardiovascular risk."
+          },
+          {
+            "icon": "💪",
+            "title": "Muscle Preservation",
+            "description": "Unlike caloric restriction, Tesamorelin reduces fat while maintaining or even improving lean muscle mass through growth hormone optimization."
+          },
+          {
+            "icon": "❤️",
+            "title": "Cardiovascular Benefits",
+            "description": "Reduces visceral fat burden on the heart, improves lipid profiles, and lowers cardiovascular disease markers."
+          },
+          {
+            "icon": "🎯",
+            "title": "Metabolic Improvement",
+            "description": "Enhances insulin sensitivity, glucose metabolism, and overall metabolic function through targeted fat reduction."
+          },
+          {
+            "icon": "⚡",
+            "title": "Energy Enhancement",
+            "description": "Growth hormone optimization increases energy production, reduces fatigue, and improves overall vitality."
+          },
+          {
+            "icon": "🧬",
+            "title": "Body Recomposition",
+            "description": "Favorable changes in body composition with reduced waist circumference and improved muscle-to-fat ratio."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "epithalon",
+      "sku": "EVO-010",
+      "meta": {
+        "title": "Epithalon | Telomerase Activator | Cellular Longevity Peptide | EvoLife",
+        "description": "Activate cellular rejuvenation with Epithalon—research-backed peptide that lengthens telomeres, regulates circadian rhythms, and supports longevity. $235/month."
+      },
+      "hero": {
+        "category": "Advanced Peptides • Cellular Longevity",
+        "title": "Epithalon",
+        "subtitle": "Activate your body's cellular rejuvenation mechanisms with Epithalon—a bioregulatory tetrapeptide that lengthens telomeres, regulates melatonin production, and supports healthy aging at the most fundamental chromosomal level.",
+        "price": "235",
+        "priceNote": "Includes medication, doctor consultations, and ongoing support"
+      },
+      "stats": [
+        {
+          "number": "14,300+",
+          "label": "Patients Treated"
+        },
+        {
+          "number": "40-50%",
+          "label": "Telomerase Activity"
+        },
+        {
+          "number": "96%",
+          "label": "Patient Satisfaction"
+        },
+        {
+          "number": "Lab Tested",
+          "label": "Quality & Potency"
+        }
+      ],
+      "whatIs": {
+        "heading": "What is Epithalon?",
+        "description": "Epithalon (Epithalamin) is a synthetic tetrapeptide (Ala-Glu-Asp-Gly) that activates telomerase—the enzyme responsible for maintaining telomere length. Telomeres are protective DNA caps on chromosomes that naturally shorten with age, leading to cellular senescence. Through epigenetic regulation, Epithalon has demonstrated profound effects on cellular aging, circadian biology, and age-related disease prevention in extensive research.",
+        "infoBox": {
+          "title": "How Epithalon Works",
+          "intro": "Epithalon supports longevity through cellular-level mechanisms:",
+          "mechanisms": [
+            "Activates telomerase enzyme to lengthen telomeres and extend cellular lifespan",
+            "Regulates pineal gland function to optimize melatonin secretion and circadian rhythms",
+            "Normalizes neuroendocrine system for improved hormonal balance across multiple axes",
+            "Reduces oxidative stress and enhances DNA repair mechanisms"
+          ],
+          "conclusion": "By addressing the fundamental mechanisms of cellular aging—telomere attrition and circadian disruption—Epithalon supports systemic rejuvenation and longevity at the chromosomal level."
+        }
+      },
+      "benefits": {
+        "subtitle": "Why thousands choose Epithalon for cellular longevity",
+        "items": [
+          {
+            "icon": "🧬",
+            "title": "Telomere Lengthening",
+            "description": "Activates telomerase to extend telomeres—the protective DNA caps that determine cellular lifespan and replicative potential."
+          },
+          {
+            "icon": "😴",
+            "title": "Circadian Optimization",
+            "description": "Regulates pineal gland melatonin production, improving sleep quality, hormonal rhythms, and overall circadian biology."
+          },
+          {
+            "icon": "🛡️",
+            "title": "Cellular Protection",
+            "description": "Enhances antioxidant systems and DNA repair mechanisms to protect against age-related cellular damage."
+          },
+          {
+            "icon": "🧠",
+            "title": "Cognitive Longevity",
+            "description": "Supports brain cell preservation, neuroplasticity, and cognitive function through neuroprotective mechanisms."
+          },
+          {
+            "icon": "⚡",
+            "title": "Metabolic Balance",
+            "description": "Normalizes endocrine function across multiple systems, supporting metabolic health and hormonal homeostasis."
+          },
+          {
+            "icon": "❤️",
+            "title": "Cardiovascular Health",
+            "description": "Supports vascular health, reduces age-related cardiovascular decline, and optimizes circulatory function."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "ghk-cu",
+      "sku": "EVO-011",
+      "meta": {
+        "title": "GHK-Cu | Copper Peptide | Skin Regeneration & Collagen | EvoLife",
+        "description": "Regenerate skin and boost collagen with GHK-Cu copper peptide. Supports wound healing, anti-aging, and tissue repair. Doctor-supervised therapy. $199/month."
+      },
+      "hero": {
+        "category": "Advanced Peptides • Regenerative Medicine",
+        "title": "GHK-Cu",
+        "subtitle": "Activate comprehensive tissue regeneration with GHK-Cu—a naturally occurring copper peptide that stimulates collagen production, accelerates wound healing, and reverses visible signs of aging through multi-system regenerative effects.",
+        "price": "199",
+        "priceNote": "Includes medication, doctor consultations, and ongoing support"
+      },
+      "stats": [
+        {
+          "number": "14,300+",
+          "label": "Patients Treated"
+        },
+        {
+          "number": "2-3x",
+          "label": "Collagen Production"
+        },
+        {
+          "number": "96%",
+          "label": "Patient Satisfaction"
+        },
+        {
+          "number": "Lab Tested",
+          "label": "Quality & Potency"
+        }
+      ],
+      "whatIs": {
+        "heading": "What is GHK-Cu?",
+        "description": "GHK-Cu (Glycyl-L-Histidyl-L-Lysine-Copper) is a naturally occurring copper-binding peptide found in human plasma, saliva, and urine. Discovered in the 1970s, GHK-Cu declines significantly with age, correlating with reduced tissue repair capacity. This tripeptide-copper complex has been extensively studied for its remarkable regenerative properties across skin, hair, nervous tissue, and immune function.",
+        "infoBox": {
+          "title": "How GHK-Cu Works",
+          "intro": "GHK-Cu regenerates tissue through multiple pathways:",
+          "mechanisms": [
+            "Stimulates collagen I and II synthesis while modulating MMPs for balanced remodeling",
+            "Activates stem cells and enhances their differentiation into functional tissue",
+            "Increases angiogenesis and vascularization for improved nutrient delivery",
+            "Modulates gene expression to favor tissue repair over inflammation"
+          ],
+          "conclusion": "Through copper-mediated signaling and gene regulation, GHK-Cu orchestrates a comprehensive regenerative response—restoring youthful tissue architecture and function."
+        }
+      },
+      "benefits": {
+        "subtitle": "Why thousands choose GHK-Cu for regenerative benefits",
+        "items": [
+          {
+            "icon": "✨",
+            "title": "Skin Regeneration",
+            "description": "Dramatically improves skin firmness, elasticity, and clarity by stimulating collagen and elastin production while reducing fine lines."
+          },
+          {
+            "icon": "💇",
+            "title": "Hair Growth",
+            "description": "Promotes hair follicle enlargement, increases hair thickness, and supports healthy hair growth through follicle regeneration."
+          },
+          {
+            "icon": "🩹",
+            "title": "Wound Healing",
+            "description": "Accelerates tissue repair, reduces scar formation, and enhances healing of both acute injuries and chronic wounds."
+          },
+          {
+            "icon": "🛡️",
+            "title": "Anti-Inflammatory",
+            "description": "Modulates inflammatory responses and reduces chronic inflammation that accelerates aging and disease."
+          },
+          {
+            "icon": "🧬",
+            "title": "Gene Regulation",
+            "description": "Influences over 4,000 genes involved in tissue repair, antioxidant protection, and cellular health."
+          },
+          {
+            "icon": "🔬",
+            "title": "Stem Cell Activation",
+            "description": "Mobilizes and activates stem cells for enhanced tissue regeneration and repair capacity."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "cjc-1295-ipamorelin",
+      "sku": "EVO-004",
+      "meta": {
+        "title": "CJC-1295 / Ipamorelin Stack | Growth Hormone Optimization | EvoLife",
+        "description": "Maximize HGH production with CJC-1295 and Ipamorelin combination therapy. Synergistic growth hormone optimization for muscle, recovery, and anti-aging. $250/month."
+      },
+      "hero": {
+        "category": "Advanced Peptides • Growth Hormone Synergy",
+        "title": "CJC-1295 / Ipamorelin",
+        "subtitle": "Achieve superior growth hormone optimization with the synergistic CJC-1295 and Ipamorelin stack—combining long-acting GHRH with selective ghrelin mimetic for sustained, pulsatile HGH release that maximizes muscle growth, fat loss, and recovery.",
+        "price": "250",
+        "priceNote": "Includes both peptides, doctor consultations, and ongoing support"
+      },
+      "stats": [
+        {
+          "number": "14,300+",
+          "label": "Patients Treated"
+        },
+        {
+          "number": "50-70%",
+          "label": "HGH Increase"
+        },
+        {
+          "number": "96%",
+          "label": "Patient Satisfaction"
+        },
+        {
+          "number": "Lab Tested",
+          "label": "Quality & Potency"
+        }
+      ],
+      "whatIs": {
+        "heading": "What is CJC-1295 / Ipamorelin?",
+        "description": "This powerful peptide combination synergistically optimizes growth hormone production through complementary mechanisms. CJC-1295 (with DAC) is a long-acting GHRH analog that extends HGH pulses, while Ipamorelin is a selective ghrelin receptor agonist that amplifies pulse intensity. Together, they create sustained, physiological HGH elevation superior to either peptide alone.",
+        "infoBox": {
+          "title": "How CJC-1295 / Ipamorelin Works",
+          "intro": "This combination optimizes HGH through dual pathways:",
+          "mechanisms": [
+            "CJC-1295 extends growth hormone pulse duration through drug affinity complex (DAC) technology",
+            "Ipamorelin increases pulse amplitude and frequency through selective GHS-R1a activation",
+            "Synergistic action creates sustained, natural HGH elevation without receptor desensitization",
+            "Maintains physiological pulsatile secretion patterns for optimal tissue response"
+          ],
+          "conclusion": "By combining duration-extending and amplitude-boosting mechanisms, this stack achieves superior HGH optimization compared to single-peptide protocols—with minimal side effects."
+        }
+      },
+      "benefits": {
+        "subtitle": "Why thousands choose this synergistic growth hormone stack",
+        "items": [
+          {
+            "icon": "💪",
+            "title": "Muscle Growth",
+            "description": "Maximizes protein synthesis and nitrogen retention for enhanced muscle mass development and strength gains."
+          },
+          {
+            "icon": "🔥",
+            "title": "Fat Loss",
+            "description": "Dramatically increases lipolysis and fat oxidation, particularly targeting stubborn adipose tissue while preserving muscle."
+          },
+          {
+            "icon": "⚡",
+            "title": "Recovery Enhancement",
+            "description": "Accelerates tissue repair, reduces recovery time between workouts, and supports injury healing through HGH optimization."
+          },
+          {
+            "icon": "😴",
+            "title": "Sleep Quality",
+            "description": "Improves deep sleep architecture and REM cycles—critical for growth hormone secretion and overall recovery."
+          },
+          {
+            "icon": "🧠",
+            "title": "Cognitive Function",
+            "description": "Enhances mental clarity, focus, and memory through growth hormone's neuroprotective and neurogenic effects."
+          },
+          {
+            "icon": "🛡️",
+            "title": "Immune Support",
+            "description": "Strengthens immune function through thymus regeneration and enhanced lymphocyte production."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "epithalon-ghk-cu",
+      "sku": "EVO-009",
+      "meta": {
+        "title": "Epithalon / GHK-Cu Stack | Longevity & Regeneration Combo | EvoLife",
+        "description": "Comprehensive anti-aging with Epithalon and GHK-Cu combination. Telomere lengthening plus tissue regeneration for complete rejuvenation. $250/month."
+      },
+      "hero": {
+        "category": "Advanced Peptides • Complete Rejuvenation",
+        "title": "Epithalon / GHK-Cu",
+        "subtitle": "Experience comprehensive cellular rejuvenation with the Epithalon and GHK-Cu stack—combining telomere-lengthening longevity peptide with regenerative copper peptide for complete anti-aging optimization from chromosomes to skin.",
+        "price": "250",
+        "priceNote": "Includes both peptides, doctor consultations, and ongoing support"
+      },
+      "stats": [
+        {
+          "number": "14,300+",
+          "label": "Patients Treated"
+        },
+        {
+          "number": "360°",
+          "label": "Anti-Aging Coverage"
+        },
+        {
+          "number": "96%",
+          "label": "Patient Satisfaction"
+        },
+        {
+          "number": "Lab Tested",
+          "label": "Quality & Potency"
+        }
+      ],
+      "whatIs": {
+        "heading": "What is Epithalon / GHK-Cu Combination?",
+        "description": "This synergistic longevity stack addresses aging at multiple levels: Epithalon targets fundamental cellular aging through telomere extension and epigenetic regulation, while GHK-Cu provides regenerative support for tissues, skin, and organ systems. Together, they create a comprehensive anti-aging protocol that works from chromosomal protection to visible tissue regeneration.",
+        "infoBox": {
+          "title": "How Epithalon / GHK-Cu Works",
+          "intro": "This combination provides multi-system rejuvenation:",
+          "mechanisms": [
+            "Epithalon lengthens telomeres and regulates circadian biology for cellular longevity",
+            "GHK-Cu stimulates tissue regeneration, collagen production, and wound healing",
+            "Complementary gene regulation favoring longevity pathways and tissue repair",
+            "Synergistic antioxidant and anti-inflammatory effects across multiple systems"
+          ],
+          "conclusion": "By combining cellular-level longevity with tissue-level regeneration, this stack addresses aging comprehensively—from DNA protection to visible rejuvenation."
+        }
+      },
+      "benefits": {
+        "subtitle": "Why thousands choose this complete rejuvenation stack",
+        "items": [
+          {
+            "icon": "🧬",
+            "title": "Cellular Longevity",
+            "description": "Epithalon lengthens telomeres and activates longevity genes while GHK-Cu regenerates cellular structures."
+          },
+          {
+            "icon": "✨",
+            "title": "Skin Rejuvenation",
+            "description": "Dramatic improvements in skin quality, firmness, and elasticity through collagen stimulation and cellular renewal."
+          },
+          {
+            "icon": "🛡️",
+            "title": "Comprehensive Protection",
+            "description": "Dual antioxidant and anti-inflammatory effects protect against age-related damage at cellular and tissue levels."
+          },
+          {
+            "icon": "😴",
+            "title": "Sleep Optimization",
+            "description": "Epithalon regulates circadian rhythms while both peptides support restorative sleep and recovery."
+          },
+          {
+            "icon": "🧠",
+            "title": "Cognitive Health",
+            "description": "Neuroprotective effects from both peptides support brain health, memory, and mental clarity."
+          },
+          {
+            "icon": "⚡",
+            "title": "Systemic Vitality",
+            "description": "Complete rejuvenation across multiple organ systems for enhanced energy, function, and quality of life."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "tesamorelin-ipamorelin",
+      "sku": "EVO-005",
+      "meta": {
+        "title": "Tesamorelin / Ipamorelin | Fat Loss & HGH Combo | EvoLife",
+        "description": "Target visceral fat while optimizing growth hormone with Tesamorelin and Ipamorelin combination therapy. Superior body recomposition results. $250/month."
+      },
+      "hero": {
+        "category": "Advanced Peptides • Body Recomposition",
+        "title": "Tesamorelin / Ipamorelin",
+        "subtitle": "Achieve superior body recomposition with Tesamorelin and Ipamorelin combination—targeting stubborn visceral fat while optimizing growth hormone for muscle preservation and metabolic enhancement.",
+        "price": "250",
+        "priceNote": "Includes both peptides, doctor consultations, and ongoing support"
+      },
+      "stats": [
+        {
+          "number": "14,300+",
+          "label": "Patients Treated"
+        },
+        {
+          "number": "20-25%",
+          "label": "Visceral Fat Loss"
+        },
+        {
+          "number": "96%",
+          "label": "Patient Satisfaction"
+        },
+        {
+          "number": "Lab Tested",
+          "label": "Quality & Potency"
+        }
+      ],
+      "whatIs": {
+        "heading": "What is Tesamorelin / Ipamorelin?",
+        "description": "This strategic peptide combination leverages Tesamorelin's FDA-approved visceral fat reduction capabilities with Ipamorelin's selective growth hormone optimization. Tesamorelin specifically targets dangerous abdominal fat, while Ipamorelin amplifies anabolic effects—creating superior body recomposition compared to either peptide alone.",
+        "infoBox": {
+          "title": "How Tesamorelin / Ipamorelin Works",
+          "intro": "This combination optimizes fat loss and muscle preservation:",
+          "mechanisms": [
+            "Tesamorelin mobilizes visceral adipose tissue through sustained GHRH signaling",
+            "Ipamorelin enhances growth hormone pulses for increased lipolysis and protein synthesis",
+            "Synergistic HGH elevation maximizes fat oxidation while preserving lean mass",
+            "Complementary metabolic effects improve insulin sensitivity and lipid profiles"
+          ],
+          "conclusion": "By combining targeted visceral fat reduction with anabolic growth hormone optimization, this stack delivers superior body recomposition results."
+        }
+      },
+      "benefits": {
+        "subtitle": "Why thousands choose this body recomposition stack",
+        "items": [
+          {
+            "icon": "📏",
+            "title": "Visceral Fat Targeting",
+            "description": "Significantly reduces dangerous abdominal fat surrounding organs—addressing the metabolic dysfunction underlying obesity."
+          },
+          {
+            "icon": "💪",
+            "title": "Muscle Preservation",
+            "description": "Maintains or increases lean muscle mass during fat loss through optimized growth hormone signaling."
+          },
+          {
+            "icon": "⚡",
+            "title": "Metabolic Enhancement",
+            "description": "Improves insulin sensitivity, glucose metabolism, and overall metabolic health through dual mechanisms."
+          },
+          {
+            "icon": "❤️",
+            "title": "Cardiovascular Benefits",
+            "description": "Reduces cardiovascular disease risk by eliminating visceral fat and improving lipid profiles."
+          },
+          {
+            "icon": "🎯",
+            "title": "Body Recomposition",
+            "description": "Superior changes in body composition with reduced waist circumference and improved muscle-to-fat ratio."
+          },
+          {
+            "icon": "🔥",
+            "title": "Enhanced Lipolysis",
+            "description": "Maximizes fat burning through synergistic growth hormone pathways while maintaining metabolic rate."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "aod-9604-mots-c",
+      "sku": "EVO-002",
+      "meta": {
+        "title": "AOD-9604 / MOTS-C | Fat Loss & Metabolism Combo | EvoLife",
+        "description": "Comprehensive fat reduction with AOD-9604 and MOTS-C combination. Targeted lipolysis plus metabolic optimization for superior weight loss. $250/month."
+      },
+      "hero": {
+        "category": "Advanced Peptides • Metabolic Optimization",
+        "title": "AOD-9604 / MOTS-C",
+        "subtitle": "Achieve comprehensive fat loss and metabolic optimization with AOD-9604 and MOTS-C combination—targeting adipose tissue breakdown while enhancing cellular energy metabolism for sustainable weight management.",
+        "price": "250",
+        "priceNote": "Includes both peptides, doctor consultations, and ongoing support"
+      },
+      "stats": [
+        {
+          "number": "14,300+",
+          "label": "Patients Treated"
+        },
+        {
+          "number": "18-22%",
+          "label": "Fat Mass Reduction"
+        },
+        {
+          "number": "96%",
+          "label": "Patient Satisfaction"
+        },
+        {
+          "number": "Lab Tested",
+          "label": "Quality & Potency"
+        }
+      ],
+      "whatIs": {
+        "heading": "What is AOD-9604 / MOTS-C?",
+        "description": "This powerful fat loss combination pairs AOD-9604—a modified fragment of growth hormone specifically engineered for lipolysis—with MOTS-C, a mitochondrial peptide that optimizes cellular metabolism. Together, they create a comprehensive approach to weight management: breaking down fat stores while enhancing metabolic efficiency.",
+        "infoBox": {
+          "title": "How AOD-9604 / MOTS-C Works",
+          "intro": "This combination attacks fat through complementary mechanisms:",
+          "mechanisms": [
+            "AOD-9604 stimulates lipolysis and inhibits lipogenesis through HGH fragment activity",
+            "MOTS-C activates AMPK pathways to enhance mitochondrial fat oxidation",
+            "Synergistic improvement in insulin sensitivity and glucose metabolism",
+            "Complementary energy regulation supporting sustained metabolic rate"
+          ],
+          "conclusion": "By combining direct fat breakdown with metabolic optimization, this stack addresses weight loss comprehensively—delivering superior results compared to single-peptide protocols."
+        }
+      },
+      "benefits": {
+        "subtitle": "Why thousands choose this metabolic optimization stack",
+        "items": [
+          {
+            "icon": "🔥",
+            "title": "Enhanced Fat Burning",
+            "description": "AOD-9604 directly stimulates lipolysis while MOTS-C increases mitochondrial fat oxidation—maximizing fat loss."
+          },
+          {
+            "icon": "⚡",
+            "title": "Energy Optimization",
+            "description": "MOTS-C enhances cellular energy production, preventing the fatigue often associated with caloric restriction."
+          },
+          {
+            "icon": "🎯",
+            "title": "Metabolic Flexibility",
+            "description": "Improves ability to switch between fuel sources, optimizing fat burning while preserving muscle glycogen."
+          },
+          {
+            "icon": "💪",
+            "title": "Muscle Preservation",
+            "description": "Selectively targets fat stores while preserving lean muscle mass through anti-catabolic effects."
+          },
+          {
+            "icon": "🔬",
+            "title": "Insulin Sensitivity",
+            "description": "Both peptides improve insulin function and glucose metabolism—critical for sustained weight management."
+          },
+          {
+            "icon": "🛡️",
+            "title": "Metabolic Health",
+            "description": "Comprehensive metabolic benefits including improved lipid profiles and reduced inflammation."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "aod-9604-mots-c-tesamorelin",
+      "sku": "EVO-001",
+      "meta": {
+        "title": "AOD-9604 / MOTS-C / Tesamorelin | Ultimate Fat Loss Stack | EvoLife",
+        "description": "Maximum fat reduction with triple peptide combination. Comprehensive approach targeting visceral fat, lipolysis, and metabolism. $250/month."
+      },
+      "hero": {
+        "category": "Advanced Peptides • Complete Fat Loss",
+        "title": "AOD-9604 / MOTS-C / Tesamorelin",
+        "subtitle": "Experience maximum fat loss with our comprehensive triple peptide stack—combining visceral fat targeting, direct lipolysis, and metabolic optimization for the most complete approach to weight reduction available.",
+        "price": "250",
+        "priceNote": "Includes all three peptides, doctor consultations, and ongoing support"
+      },
+      "stats": [
+        {
+          "number": "14,300+",
+          "label": "Patients Treated"
+        },
+        {
+          "number": "25-30%",
+          "label": "Total Fat Reduction"
+        },
+        {
+          "number": "96%",
+          "label": "Patient Satisfaction"
+        },
+        {
+          "number": "Lab Tested",
+          "label": "Quality & Potency"
+        }
+      ],
+      "whatIs": {
+        "heading": "What is AOD-9604 / MOTS-C / Tesamorelin?",
+        "description": "This comprehensive triple peptide combination represents the most complete approach to fat loss available. Tesamorelin targets dangerous visceral abdominal fat, AOD-9604 stimulates lipolysis throughout adipose tissue, and MOTS-C optimizes cellular metabolism—creating synergistic fat reduction that addresses all aspects of body composition.",
+        "infoBox": {
+          "title": "How This Triple Stack Works",
+          "intro": "This combination provides comprehensive fat loss through three mechanisms:",
+          "mechanisms": [
+            "Tesamorelin specifically reduces visceral adipose tissue through GHRH signaling",
+            "AOD-9604 stimulates peripheral fat breakdown and inhibits new fat formation",
+            "MOTS-C enhances mitochondrial fat oxidation and metabolic efficiency",
+            "Synergistic effects create superior fat loss while preserving lean muscle mass"
+          ],
+          "conclusion": "By attacking fat storage from multiple angles—visceral targeting, direct lipolysis, and metabolic optimization—this stack delivers unparalleled fat loss results."
+        }
+      },
+      "benefits": {
+        "subtitle": "Why thousands choose this ultimate fat loss protocol",
+        "items": [
+          {
+            "icon": "🎯",
+            "title": "Complete Fat Targeting",
+            "description": "Addresses all fat compartments: visceral abdominal fat, subcutaneous deposits, and stubborn adipose tissue."
+          },
+          {
+            "icon": "📏",
+            "title": "Visceral Fat Reduction",
+            "description": "Tesamorelin specifically targets dangerous organ-surrounding fat that contributes to metabolic disease."
+          },
+          {
+            "icon": "🔥",
+            "title": "Maximized Lipolysis",
+            "description": "AOD-9604 and growth hormone pathways dramatically increase fat breakdown throughout the body."
+          },
+          {
+            "icon": "⚡",
+            "title": "Metabolic Optimization",
+            "description": "MOTS-C ensures efficient fat burning while maintaining energy levels and preventing metabolic slowdown."
+          },
+          {
+            "icon": "💪",
+            "title": "Muscle Preservation",
+            "description": "Growth hormone optimization preserves or increases lean mass despite significant fat loss."
+          },
+          {
+            "icon": "❤️",
+            "title": "Comprehensive Health",
+            "description": "Improved cardiovascular markers, insulin sensitivity, lipid profiles, and overall metabolic health."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "semax-selank",
+      "sku": "EVO-012",
+      "meta": {
+        "title": "Semax / Selank | Nootropic Cognitive Enhancement Stack | EvoLife",
+        "description": "Optimize cognitive function with Semax and Selank combination. Enhanced focus, reduced stress, improved memory and mental clarity. $250/month."
+      },
+      "hero": {
+        "category": "Advanced Peptides • Cognitive Optimization",
+        "title": "Semax / Selank",
+        "subtitle": "Optimize cognitive performance and emotional resilience with the Semax and Selank stack—combining powerful nootropic peptide with anxiolytic compound for enhanced focus, memory, stress resistance, and mental clarity.",
+        "price": "250",
+        "priceNote": "Includes both peptides, doctor consultations, and ongoing support"
+      },
+      "stats": [
+        {
+          "number": "14,300+",
+          "label": "Patients Treated"
+        },
+        {
+          "number": "40-50%",
+          "label": "Cognitive Enhancement"
+        },
+        {
+          "number": "96%",
+          "label": "Patient Satisfaction"
+        },
+        {
+          "number": "Lab Tested",
+          "label": "Quality & Potency"
+        }
+      ],
+      "whatIs": {
+        "heading": "What is Semax / Selank?",
+        "description": "This synergistic nootropic stack combines Semax—a synthetic ACTH fragment with powerful cognitive-enhancing properties—with Selank, an anxiolytic peptide that reduces stress while supporting mental performance. Developed by Russian scientists, both peptides have extensive research demonstrating neuroprotective, cognitive, and stress-reducing effects without the side effects of traditional stimulants or anxiolytics.",
+        "infoBox": {
+          "title": "How Semax / Selank Works",
+          "intro": "This combination optimizes brain function through complementary mechanisms:",
+          "mechanisms": [
+            "Semax increases BDNF and enhances neuroplasticity for improved learning and memory",
+            "Selank modulates GABAergic and serotonergic systems for stress reduction without sedation",
+            "Synergistic improvement in attention, focus, and cognitive processing speed",
+            "Neuroprotective effects supporting long-term brain health and resilience"
+          ],
+          "conclusion": "By combining cognitive enhancement with stress reduction, this stack creates optimal mental state—sharp focus and clear thinking without anxiety or overstimulation."
+        }
+      },
+      "benefits": {
+        "subtitle": "Why thousands choose this cognitive optimization stack",
+        "items": [
+          {
+            "icon": "🧠",
+            "title": "Enhanced Cognition",
+            "description": "Improves memory formation, recall, learning capacity, and overall cognitive processing through BDNF upregulation."
+          },
+          {
+            "icon": "🎯",
+            "title": "Laser Focus",
+            "description": "Dramatically enhances attention span, concentration, and ability to maintain focus on complex tasks."
+          },
+          {
+            "icon": "😌",
+            "title": "Stress Reduction",
+            "description": "Selank reduces anxiety and stress responses while maintaining mental clarity—without sedation or cognitive impairment."
+          },
+          {
+            "icon": "⚡",
+            "title": "Mental Energy",
+            "description": "Increases mental stamina and reduces cognitive fatigue without stimulant-related crashes or jitters."
+          },
+          {
+            "icon": "🛡️",
+            "title": "Neuroprotection",
+            "description": "Protects against oxidative stress, inflammation, and age-related cognitive decline through multiple pathways."
+          },
+          {
+            "icon": "😊",
+            "title": "Mood Optimization",
+            "description": "Enhances emotional stability, reduces irritability, and supports positive mood states through neurotransmitter balance."
+          }
+        ]
+      }
+    }
+  ]
+}

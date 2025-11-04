@@ -4574,7 +4574,7 @@ figcaption {
 
 .footer_component {
   background-color: var(--_category-based-colors---background);
-  color: var(--text-color--text-secondary);
+  color: white;
   --_category-based-colors---background: var(--base-color-brand--nature09);
 }
 
@@ -5474,6 +5474,18 @@ figcaption {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
   overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.3s ease-out, padding 0.3s ease-out;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.faq_accordion.open .faq_answer,
+.faq_question:not(.w--closed) + .faq_answer {
+  max-height: 2000px;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  transition: max-height 0.4s ease-in, padding 0.3s ease-in;
 }
 
 .pagination {
@@ -5666,6 +5678,8 @@ figcaption {
 .process_image {
   position: absolute;
   inset: 0% 0% auto auto;
+  max-width: 400px;
+  width: 100%;
 }
 
 .pricing_component {
@@ -5815,6 +5829,7 @@ figcaption {
   grid-row-gap: 1rem;
   grid-template-rows: auto;
   grid-template-columns: 1fr 1fr 1fr 1fr;
+  justify-items: center;
 }
 
 .holistic-bento_card-large {
@@ -6808,7 +6823,7 @@ figcaption {
 }
 
 .logo {
-  width: 105px;
+  width: 140px;
 }
 
 .logo-mint {
@@ -6883,7 +6898,7 @@ figcaption {
 }
 
 .image-6 {
-  height: 15cqw;
+  height: 20cqw;
   margin-bottom: -15px;
 }
 
@@ -14571,6 +14586,7 @@ figcaption {
   border-top: 1px solid var(--base-color-brand--nature07);
   margin-top: 3rem;
   padding-top: 3rem;
+  color: white;
 }
 
 .footer_legal-disclaimer {

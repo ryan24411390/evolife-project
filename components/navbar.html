@@ -1,0 +1,80 @@
+<!--
+  =================================================================
+  MODERN MINIMALIST NAVBAR COMPONENT
+  Evolife Wellness - Green Theme
+  =================================================================
+
+  Features:
+  - Sticky navigation with backdrop blur
+  - Animated underline hover effects
+  - Green wellness color scheme
+  - Smooth dropdown menu
+  - Mobile-friendly drawer menu
+  - Accessible ARIA labels
+  - No external dependencies (Webflow-free)
+
+  Usage:
+  Include this file right after <body> tag
+  Requires: design-system/css/06-navigation.css
+  Requires: scripts/navigation.js
+  =================================================================
+-->
+
+<nav class="nav" id="main-nav" role="navigation" aria-label="Main navigation">
+  <div class="nav__container">
+    <!-- Logo -->
+    <a href="index.html" class="nav__logo" aria-label="Evolife Wellness Home">
+      <img src="assets/images/evolife-logo-new.png" alt="Evolife Wellness" width="180" height="48">
+    </a>
+
+    <!-- Desktop Navigation Menu -->
+    <ul class="nav__menu" id="nav-menu">
+      <li>
+        <a href="index.html">Home</a>
+      </li>
+
+      <li>
+        <a href="pricing.html">GLP-1 Pricing</a>
+      </li>
+
+      <li>
+        <a href="contact-us.html">Contact Us</a>
+      </li>
+
+      <!-- Mobile CTA (shown only in mobile menu) -->
+      <li class="nav__mobile-cta" style="display: none;">
+        <a href="get-started.html" class="btn btn-primary" style="width: 100%; text-align: center; margin-top: 1rem;">Get Started</a>
+      </li>
+    </ul>
+
+    <!-- Desktop CTA Button -->
+    <a href="get-started.html" class="nav__cta btn btn-primary">Get Started</a>
+
+    <!-- Mobile Menu Toggle -->
+    <button
+      class="nav__toggle"
+      id="nav-toggle"
+      type="button"
+      aria-label="Toggle navigation menu"
+      aria-expanded="false"
+      aria-controls="nav-menu"
+    >
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </div>
+</nav>
+
+<!-- Mobile Menu Overlay -->
+<div class="nav__overlay" id="nav-overlay" aria-hidden="true"></div>
+
+<!--
+  JavaScript Note:
+  The navigation.js file handles:
+  - Mobile menu toggle
+  - Dropdown interactions
+  - Scroll shrink effect
+  - Overlay click to close
+  - Keyboard navigation (Esc to close)
+-->
