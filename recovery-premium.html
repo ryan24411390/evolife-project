@@ -273,5 +273,22 @@
 document.addEventListener('DOMContentLoaded',function(){const faqItems=document.querySelectorAll('.faq-item');faqItems.forEach(item=>{const question=item.querySelector('.faq-question');question.addEventListener('click',()=>{const isActive=item.classList.contains('active');faqItems.forEach(i=>i.classList.remove('active'));if(!isActive)item.classList.add('active')})});gsap.registerPlugin(ScrollTrigger);gsap.utils.toArray('.product-card').forEach((card,i)=>{gsap.from(card,{scrollTrigger:{trigger:card,start:'top 85%'},y:60,opacity:0,duration:0.8,delay:i*0.1,ease:'power3.out'})});gsap.utils.toArray('.timeline-item').forEach((item,i)=>{gsap.from(item,{scrollTrigger:{trigger:item,start:'top 90%'},x:-40,opacity:0,duration:0.6,delay:i*0.1,ease:'power2.out'})});gsap.utils.toArray('.testimonial-card').forEach((card,i)=>{gsap.from(card,{scrollTrigger:{trigger:card,start:'top 85%'},y:40,opacity:0,duration:0.7,delay:i*0.15,ease:'power2.out'})})});
 </script>
 
+
+<!-- LegitScript Certification Footer Section -->
+<section class="legitscript-section" style="background: #2C3531; padding: 3rem 0; text-align: center;">
+  <div style="max-width: 1200px; margin: 0 auto; padding: 0 1rem;">
+
+  <!-- LegitScript Certification Seal -->
+  <div class="legitscript-seal-container" style="text-align: center; margin: 2rem auto; padding: 1.5rem 1rem; max-width: 300px;">
+    <div style="margin-bottom: 0.5rem; color: #A3B19E; font-weight: 600; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em;">
+      Verified & Certified
+    </div>
+    <script src="https://static.legitscript.com/seals/21133691.js"></script>
+  </div>
+  <!-- End LegitScript Seal -->
+
+  </div>
+</section>
+
 </body>
 </html>

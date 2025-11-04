@@ -106,5 +106,22 @@
 <script>
 document.addEventListener('DOMContentLoaded',function(){const lenis=new Lenis({duration:1.2,easing:(t)=>Math.min(1,1.001-Math.pow(2,-10*t)),smoothWheel:true});function raf(time){lenis.raf(time);requestAnimationFrame(raf)}requestAnimationFrame(raf);gsap.registerPlugin(ScrollTrigger);gsap.utils.toArray('.benefit-card').forEach((card,i)=>{gsap.from(card,{scrollTrigger:{trigger:card,start:'top 85%'},y:40,opacity:0,duration:0.6,delay:i*0.1,ease:'power2.out'})})});
 </script>
+
+<!-- LegitScript Certification Footer Section -->
+<section class="legitscript-section" style="background: #2C3531; padding: 3rem 0; text-align: center;">
+  <div style="max-width: 1200px; margin: 0 auto; padding: 0 1rem;">
+
+  <!-- LegitScript Certification Seal -->
+  <div class="legitscript-seal-container" style="text-align: center; margin: 2rem auto; padding: 1.5rem 1rem; max-width: 300px;">
+    <div style="margin-bottom: 0.5rem; color: #A3B19E; font-weight: 600; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em;">
+      Verified & Certified
+    </div>
+    <script src="https://static.legitscript.com/seals/21133691.js"></script>
+  </div>
+  <!-- End LegitScript Seal -->
+
+  </div>
+</section>
+
 </body>
 </html>
